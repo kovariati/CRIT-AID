@@ -1,0 +1,26 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Raw public datasets and locally generated prepared tables
+data_raw/*
+!data_raw/README.md
+prepared/*
+!prepared/README.md
+
+# Large generated results distributed as GitHub Release assets
+outputs/acs_risk_selection_curves.csv.gz
+outputs/oulad_risk_selection_curves.csv.gz
+outputs/acs_primary_target_predictions.csv.gz
+
+# Editors and operating systems
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+Desktop.ini

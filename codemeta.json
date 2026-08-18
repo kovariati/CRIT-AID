@@ -1,0 +1,44 @@
+{
+  "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+  "@type": "SoftwareSourceCode",
+  "name": "CRIT-AID Reliability Audit Software",
+  "version": "1.0.0",
+  "dateModified": "2026-08-18",
+  "datePublished": "2026-08-18",
+  "description": "CRIT-AID is an executable empirical reliability audit for AI decision support under distribution shift. It tests the transportability of probability calibration, selection/abstention rules, and conformal uncertainty. Key finding: stable discrimination does not imply stable decision-support reliability.",
+  "codeRepository": "https://github.com/kovariati/CRIT-AID-AI-Decision-Support-Reliability",
+  "license": "https://spdx.org/licenses/MIT",
+  "programmingLanguage": "Python",
+  "keywords": [
+    "AI decision support",
+    "trustworthy AI",
+    "distribution shift",
+    "dataset shift",
+    "target-definition sensitivity",
+    "probability calibration",
+    "selective prediction",
+    "uncertainty quantification",
+    "conformal prediction",
+    "model monitoring"
+  ],
+  "author": [
+    {
+      "@type": "Person",
+      "givenName": "Attila",
+      "familyName": "Kovari",
+      "@id": "https://orcid.org/0000-0003-3521-4757",
+      "email": "kovari.attila@uni-eszterhazy.hu"
+    }
+  ],
+  "citation": {
+    "@type": "ScholarlyArticle",
+    "name": "Stable Discrimination Can Hide Reliability Failures in AI Decision Support under Distribution Shift and Changing Target Definitions",
+    "author": {
+      "@type": "Person",
+      "givenName": "Attila",
+      "familyName": "Kovari",
+      "@id": "https://orcid.org/0000-0003-3521-4757"
+    },
+    "datePublished": "2026"
+  }
+}

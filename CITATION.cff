@@ -1,0 +1,36 @@
+cff-version: 1.0.0
+message: If you use this software or its results, please cite the accompanying article using the preferred citation below.
+title: Stable Discrimination Can Hide Reliability Failures in AI Decision Support under Distribution Shift and Changing Target Definitions
+type: software
+version: 1.0.0
+date-released: '2026-08-18'
+license: MIT
+authors:
+- family-names: Kovari
+  given-names: Attila
+  orcid: https://orcid.org/0000-0003-3521-4757
+  email: kovari.attila@uni-eszterhazy.hu
+repository-code: https://github.com/kovariati/CRIT-AID
+keywords:
+- artificial intelligence
+- AI reliability
+- AI decision support
+- machine learning
+- distribution shift
+- dataset shift
+- probability calibration
+- selective prediction
+- conformal prediction
+- uncertainty quantification
+- reproducibility
+- benchmark
+- trustworthy AI
+- target-definition sensitivity
+preferred-citation:
+  type: unpublished
+  title: Stable Discrimination Can Hide Reliability Failures in AI Decision Support under Distribution Shift and Changing Target Definitions
+  authors:
+  - family-names: Kovari
+    given-names: Attila
+    orcid: https://orcid.org/0000-0003-3521-4757
+  year: 2026
