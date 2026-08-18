@@ -1,6 +1,5 @@
 from __future__ import annotations
 
-import hashlib
 import json
 import math
 import platform
@@ -22,14 +21,6 @@ from sklearn.metrics import (
 )
 
 EPS = 1e-8
-
-
-def sha256_file(path: Path) -> str:
-    h = hashlib.sha256()
-    with path.open('rb') as f:
-        for block in iter(lambda: f.read(8 * 1024 * 1024), b''):
-            h.update(block)
-    return h.hexdigest()
 
 
 def weighted_mean(x, w=None) -> float:
@@ -396,10 +387,4 @@ def save_environment(path: Path):
     }
     path.write_text(json.dumps(data, indent=2), encoding='utf-8')
 
-
-def write_sha256_manifest(root: Path, out_path: Path, exclude_names=()):
-    rows = []
-    for p in sorted(root.rglob('*')):
-        if p.is_file() and p.name not in set(exclude_names):
-            rows.append({'path': str(p.relative_to(root)).replace('\\','/'), 'bytes': p.stat().st_size, 'sha256': sha256_file(p)})
-    pd.DataFrame(rows).to_csv(out_path, index=False)
+ 
