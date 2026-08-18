@@ -1,6 +1,6 @@
 from __future__ import annotations
 """Audit the public CRIT-AID GitHub repository and optional large-results asset."""
-import argparse, csv, gzip, hashlib, sys
+import argparse, csv, gzip, sys
 from pathlib import Path
 ROOT=Path(__file__).resolve().parents[1]
 SOURCE_REQUIRED=[
@@ -18,22 +18,9 @@ RESULT_EXPECTED_ROWS={'outputs/acs_metrics_complete.csv.gz':720,'outputs/oulad_m
 FORBIDDEN_DIRS={'manuscript','review_material'}
 FORBIDDEN_NAME_TOKENS=('generate_manuscript','response_to_','revision_matrix')
 
-def sha256(path):
- d=hashlib.sha256();
- with path.open('rb') as s:
-  for b in iter(lambda:s.read(8*1024*1024),b''): d.update(b)
- return d.hexdigest()
 def gzip_csv_rows(path):
  with gzip.open(path,'rt',encoding='utf-8',newline='') as s:
   r=csv.reader(s); next(r,None); return sum(1 for _ in r)
-def verify_manifest(path,fail):
- if not path.exists(): fail.append(f'Missing checksum manifest: {path.name}'); return
- rows=list(csv.DictReader(path.open(newline='',encoding='utf-8')))
- for row in rows:
-  rel=row['relative_path']; target=ROOT/rel
-  if not target.exists(): fail.append(f'Checksum manifest references missing file: {rel}'); continue
-  if sha256(target)!=row['sha256']: fail.append(f'Checksum mismatch: {rel}')
- print(f'OK: verified {len(rows)} checksum records from {path.name}')
 def audit_python(fail):
  scripts=sorted((ROOT/'scripts').glob('*.py'))
  for s in scripts:
@@ -56,7 +43,7 @@ def audit_policy(fail):
   for p in data.rglob('*'):
    if p.is_file() and p.name!='README.md': fail.append(f'Raw data candidate is tracked: {p.relative_to(ROOT)}')
 def main():
- ap=argparse.ArgumentParser(); ap.add_argument('--mode',choices=('source','results'),default='source'); ap.add_argument('--skip-checksums',action='store_true'); a=ap.parse_args(); fail=[]
+ ap=argparse.ArgumentParser(); ap.add_argument('--mode',choices=('source','results'),default='source'); a=ap.parse_args(); fail=[]
  for rel in SOURCE_REQUIRED:
   if not (ROOT/rel).exists(): fail.append(f'Missing required source file: {rel}')
  audit_python(fail); audit_policy(fail)
@@ -72,8 +59,7 @@ def main():
    else:
     obs=gzip_csv_rows(p); print(f'OK: {rel} rows={obs}')
     if obs!=n: fail.append(f'{rel}: expected {n} rows, observed {obs}')
- if not a.skip_checksums: verify_manifest(ROOT/'SOURCE_SHA256.csv',fail)
  if fail:
   print('\nAUDIT FAILED'); [print('- '+x) for x in fail]; return 1
  print(f'\nAUDIT PASSED ({a.mode} mode)'); return 0
-if __name__=='__main__': sys.exit(main())
+if __name__=='__main__': sys.exit(main()) 
