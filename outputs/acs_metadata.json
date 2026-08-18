@@ -1,0 +1,11 @@
+{
+  "base_seed": 20260728,
+  "repeats": 10,
+  "independent_cohort_repeats": 5,
+  "source_eligible_n": 533535,
+  "target_eligible_n": 563917,
+  "source_computational_n": 100000,
+  "target_computational_n": 75000,
+  "cpi_2024_equivalent_threshold": 62461.221710266946,
+  "paired_bootstrap_repeats": 500
+}

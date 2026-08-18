@@ -1,0 +1,9 @@
+year,state,source_file,raw_rows,eligible_rows
+2018,CA,csv_pca_2018.zip,378817,195665
+2018,FL,csv_pfl 2018.zip,202160,98925
+2018,NY,csv_pny 2018.zip,196967,103021
+2018,TX,csv_ptx 2018.zip,268100,135924
+2024,CA,csv_pca.zip,393725,203591
+2024,FL,csv_pfl.zip,213167,104492
+2024,NY,csv_pny.zip,210150,107810
+2024,TX,csv_ptx.zip,292272,148024

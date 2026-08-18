@@ -1,0 +1,5 @@
+site,file,n,positive_n,negative_n,prevalence,missing_cells
+Cleveland,processed.cleveland.data,303,139,164,0.45874587458745875,6
+Hungary,processed.hungarian.data,294,106,188,0.36054421768707484,782
+Switzerland,processed.switzerland.data,123,115,8,0.9349593495934959,273
+VA Long Beach,processed.va.data,200,149,51,0.745,698

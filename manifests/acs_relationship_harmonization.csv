@@ -1,0 +1,20 @@
+RELSHIPP_2024,RELSHIPP_label,REL_HARM_2018_code,REL_HARM_label,information_loss_note
+20,Reference person,0,Reference person,
+21,Opposite-sex spouse,1,Husband/wife,Spouse sex composition collapsed
+22,Opposite-sex unmarried partner,13,Unmarried partner,Partner sex composition collapsed
+23,Same-sex spouse,1,Husband/wife,Spouse sex composition collapsed
+24,Same-sex unmarried partner,13,Unmarried partner,Partner sex composition collapsed
+25,Biological son/daughter,2,Biological son/daughter,
+26,Adopted son/daughter,3,Adopted son/daughter,
+27,Stepson/stepdaughter,4,Stepson/stepdaughter,
+28,Brother/sister,5,Brother/sister,
+29,Father/mother,6,Father/mother,
+30,Grandchild,7,Grandchild,
+31,Parent-in-law,8,Parent-in-law,
+32,Son-in-law/daughter-in-law,9,Son-in-law/daughter-in-law,
+33,Other relative,10,Other relative,
+34,Roommate/housemate,12,Roomer/boarder,
+35,Foster child,14,Foster child,
+36,Other nonrelative,15,Other nonrelative,
+37,Institutionalized group quarters,16,Institutionalized group quarters,
+38,Noninstitutionalized group quarters,17,Noninstitutionalized group quarters,

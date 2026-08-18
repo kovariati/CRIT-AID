@@ -1,0 +1,11 @@
+variable,description,type,processing
+AGEP,Age,numeric,Median imputation; standardization
+WKHP,Usual hours worked per week,numeric,Median imputation; standardization
+COW,Class of worker,categorical,Mode imputation; one-hot
+SCHL,Educational attainment code,categorical,Mode imputation; one-hot
+MAR,Marital status,categorical,Mode imputation; one-hot
+OCCP,Occupation code,categorical,Mode imputation; one-hot
+POBP,Place of birth code,categorical,Mode imputation; one-hot
+REL_HARM,Harmonized relationship,categorical,RELP/RELSHIPP mapping; one-hot
+SEX,Sex,categorical,One-hot
+RAC1P,Single-race code,categorical,One-hot

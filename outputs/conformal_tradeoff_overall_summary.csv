@@ -1,0 +1,2 @@
+n_primary_conditions,conditions_improved,conditions_worsened,conditions_unchanged,n_repeated_comparisons,repeats_improved,repeats_worsened,repeats_unchanged,repeats_larger_set,repeats_smaller_set,repeats_same_set,fraction_repeats_larger_set,mean_delta_worst_class_coverage,mean_delta_avg_set_size,mean_delta_singleton_rate
+27,18,9,0,290,205,70,15,221,68,1,0.7620689655172413,0.06891599579071706,0.06318616791928978,-0.06318616791928978

@@ -1,0 +1,12 @@
+source,filename,bytes,sha256,zip_valid,members
+OULAD,open+university+learning+analytics+dataset.zip,46748244,f2ed1902616c1fe8d2824d872c0b7d2d72be435bf0124d077044fe4be2c6d3e4,True,assessments.csv|courses.csv|studentAssessment.csv|studentInfo.csv|studentRegistration.csv|studentVle.csv|vle.csv|OULAD.names
+South German Credit,south+german+credit.zip,13130,0b40d40eb7321693d559e247a556f88a6cc8df8489c3cb2ae084db7592584551,True,codetable.txt|read_SouthGermanCredit.R|SouthGermanCredit.asc
+Heart Disease,heart+disease.zip,128894,b17cd273da9ce1caa4710fce80227ea454d4dbf9fcbc8e6a9121672751563adc,True,Index|WARNING|ask-detrano|bak|cleve.mod|cleveland.data|costs/Index|costs/heart-disease.README|costs/heart-disease.cost|costs/heart-disease.delay|costs/heart-disease.expense|costs/heart-disease.group|heart-disease.names|hungarian.data|long-beach-va.data|new.data|processed.cleveland.data|processed.hungarian.data|processed.switzerland.data|processed.va.data|reprocessed.hungarian.data|switzerland.data
+ACS 2018 CA,csv_pca_2018.zip,67233615,6194ade52892ddb0e41903f7d3b49399842f08eeebd42e6b19ee8e417affbf79,True,psam_p06.csv|ACS2018_PUMS_README.pdf
+ACS 2018 FL,csv_pfl 2018.zip,36113996,3a5bf5862db3a6b4988d36b7ed7da33fb7772bfd06cd7c731896baa2d7e9f2e1,True,psam_p12.csv|ACS2018_PUMS_README.pdf
+ACS 2018 NY,csv_pny 2018.zip,34958982,e7ff5ef8cf81e6422a216dbb33b8d7fc9ecc4df49252cccd4e82f6784db3e80a,True,psam_p36.csv|ACS2018_PUMS_README.pdf
+ACS 2018 TX,csv_ptx 2018.zip,47257733,4a337dd96f2b54ece03934a0125c493627abe3b6e6a4de766f96ccc802e8dfa9,True,psam_p48.csv|ACS2018_PUMS_README.pdf
+ACS 2024 CA,csv_pca.zip,70114146,fa3e473e13b09bb6d9f915c7f5c58b8405a8e48d22c43f30d43055a8a6c52882,True,psam_p06.csv|ACS2024_PUMS_README.pdf
+ACS 2024 FL,csv_pfl.zip,38647614,68fa14696f111763f502ae084bec7fc3d9da6ae7e70a65aa1b5a875529655f59,True,psam_p12.csv|ACS2024_PUMS_README.pdf
+ACS 2024 NY,csv_pny.zip,37187628,89d73997653d2a1d1b535a4a6618987819390b57a6022a167ec76fb8c7bf6699,True,psam_p36.csv|ACS2024_PUMS_README.pdf
+ACS 2024 TX,csv_ptx.zip,52105719,42ad7127988234d7dd30c23df8ada371b2135b5db912d2e634a6f901477afe63,True,psam_p48.csv|ACS2024_PUMS_README.pdf

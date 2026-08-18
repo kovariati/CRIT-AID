@@ -1,0 +1,58 @@
+variable,role
+code_module,metadata
+code_presentation,metadata
+id_student,metadata
+gender,baseline predictor
+region,baseline predictor
+highest_education,baseline predictor
+imd_band,baseline predictor
+age_band,baseline predictor
+num_of_prev_attempts,baseline predictor
+studied_credits,baseline predictor
+disability,baseline predictor
+final_result,metadata
+date_registration,baseline predictor
+date_unregistration,metadata
+target_unsuccessful,target
+horizon_day,metadata
+registered_by_horizon,metadata
+withdrawn_by_horizon,metadata
+clicks_total,VLE predictor
+active_days,VLE predictor
+vle_record_count,VLE predictor
+first_activity_day,VLE predictor
+last_activity_day,VLE predictor
+days_since_last_activity,VLE predictor
+clicks_dataplus,VLE predictor
+clicks_dualpane,VLE predictor
+clicks_externalquiz,VLE predictor
+clicks_forumng,VLE predictor
+clicks_glossary,VLE predictor
+clicks_homepage,VLE predictor
+clicks_htmlactivity,VLE predictor
+clicks_oucollaborate,VLE predictor
+clicks_oucontent,VLE predictor
+clicks_ouelluminate,VLE predictor
+clicks_ouwiki,VLE predictor
+clicks_page,VLE predictor
+clicks_questionnaire,VLE predictor
+clicks_quiz,VLE predictor
+clicks_repeatactivity,VLE predictor
+clicks_resource,VLE predictor
+clicks_sharedsubpage,VLE predictor
+clicks_subpage,VLE predictor
+clicks_url,VLE predictor
+assessments_due,assessment-derived secondary predictor
+assessment_weight_due,assessment-derived secondary predictor
+assessments_submitted,assessment-derived secondary predictor
+mean_score,assessment-derived secondary predictor
+weighted_score_earned,assessment-derived secondary predictor
+submitted_weight,assessment-derived secondary predictor
+late_submissions,assessment-derived secondary predictor
+banked_submissions,assessment-derived secondary predictor
+submission_ratio,assessment-derived secondary predictor
+late_submission_ratio,assessment-derived secondary predictor
+weighted_score_fraction_due,assessment-derived secondary predictor
+no_vle_activity,VLE predictor
+no_submitted_assessment,assessment-derived secondary predictor
+row_key,metadata

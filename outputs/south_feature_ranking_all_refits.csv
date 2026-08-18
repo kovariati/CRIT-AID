@@ -1,0 +1,401 @@
+repeat,rank,feature_code,feature_name,mutual_information
+0,1,laufkont,checking-account status,0.060902496650883826
+0,2,hoehe,credit amount,0.031468033794387784
+0,3,moral,credit history,0.02720047238458237
+0,4,laufzeit,duration,0.025238623915843306
+0,5,verw,purpose,0.023915289863805502
+0,6,sparkont,savings status,0.02025664723179206
+0,7,alter,age,0.019590149015752845
+0,8,verm,property,0.01722528911956514
+0,9,wohn,housing,0.016197098525561227
+0,10,beszeit,employment duration,0.009773449244585244
+0,11,gastarb,foreign-worker status,0.007386665142912553
+0,12,rate,installment rate,0.007199302390917053
+0,13,weitkred,other installment plans,0.004397367423655513
+0,14,famges,personal status and sex,0.0034280737870436423
+0,15,buerge,other debtors or guarantors,0.0030107602896895166
+0,16,beruf,job,0.0016239596605604895
+0,17,wohnzeit,present residence duration,0.0015608594334746984
+0,18,telef,telephone,0.000713401388601903
+0,19,bishkred,number of existing credits,0.0005906138848126227
+0,20,pers,people liable,0.00013164626318812322
+1,1,laufkont,checking-account status,0.05933837140328241
+1,2,laufzeit,duration,0.03360198833253403
+1,3,moral,credit history,0.024509265008958232
+1,4,sparkont,savings status,0.02030400290198211
+1,5,verw,purpose,0.013798738028283642
+1,6,beszeit,employment duration,0.009331219916826866
+1,7,famges,personal status and sex,0.0077613210041235225
+1,8,bishkred,number of existing credits,0.007227572674619265
+1,9,verm,property,0.00698471105747378
+1,10,wohn,housing,0.005078829821028308
+1,11,weitkred,other installment plans,0.004581199866990432
+1,12,rate,installment rate,0.003407223390197736
+1,13,buerge,other debtors or guarantors,0.0029609808125903025
+1,14,gastarb,foreign-worker status,0.001963502715364534
+1,15,beruf,job,0.0019069115289035848
+1,16,hoehe,credit amount,0.001808137300852497
+1,17,wohnzeit,present residence duration,0.0015878534962680546
+1,18,pers,people liable,0.0014943136025997311
+1,19,telef,telephone,0.00030528625192988157
+1,20,alter,age,0.0
+2,1,laufkont,checking-account status,0.07900282208795598
+2,2,laufzeit,duration,0.028273921988495543
+2,3,moral,credit history,0.026653843203327456
+2,4,verw,purpose,0.0213198879962605
+2,5,sparkont,savings status,0.016907960832102956
+2,6,beszeit,employment duration,0.015889018285797044
+2,7,verm,property,0.012631625557423032
+2,8,famges,personal status and sex,0.007463716415146246
+2,9,gastarb,foreign-worker status,0.006854279846630011
+2,10,rate,installment rate,0.006272020906223891
+2,11,alter,age,0.006131820110234498
+2,12,buerge,other debtors or guarantors,0.005889105007221469
+2,13,weitkred,other installment plans,0.004881426358257668
+2,14,bishkred,number of existing credits,0.004245056189579547
+2,15,wohnzeit,present residence duration,0.003800638298871631
+2,16,wohn,housing,0.0033390188354287115
+2,17,telef,telephone,0.0017262423212518752
+2,18,hoehe,credit amount,0.0016387826246593296
+2,19,beruf,job,0.0005626060791952409
+2,20,pers,people liable,3.163160016517175e-05
+3,1,laufkont,checking-account status,0.07301082691014923
+3,2,moral,credit history,0.03182282554363489
+3,3,sparkont,savings status,0.030527566344959976
+3,4,laufzeit,duration,0.022744654393758168
+3,5,verw,purpose,0.01967487478565102
+3,6,hoehe,credit amount,0.01265948360182656
+3,7,beszeit,employment duration,0.009716831324963704
+3,8,weitkred,other installment plans,0.008452732827357562
+3,9,verm,property,0.00827741925125608
+3,10,famges,personal status and sex,0.007289491745334997
+3,11,wohn,housing,0.005931043895409993
+3,12,rate,installment rate,0.003952304402890086
+3,13,wohnzeit,present residence duration,0.0024907275647953198
+3,14,buerge,other debtors or guarantors,0.0024163658003321722
+3,15,gastarb,foreign-worker status,0.001667433361138452
+3,16,bishkred,number of existing credits,0.0016317119043424734
+3,17,telef,telephone,0.0009607258629946991
+3,18,pers,people liable,0.0004355810393052162
+3,19,beruf,job,0.00012622406590723917
+3,20,alter,age,0.0
+4,1,laufkont,checking-account status,0.0636004683920071
+4,2,moral,credit history,0.03151542060423312
+4,3,hoehe,credit amount,0.028418024844464762
+4,4,sparkont,savings status,0.022886871847177324
+4,5,verw,purpose,0.02039998902359887
+4,6,laufzeit,duration,0.013661751791510746
+4,7,beszeit,employment duration,0.011132147362425043
+4,8,weitkred,other installment plans,0.00996719322196632
+4,9,wohn,housing,0.005949057484325171
+4,10,verm,property,0.005838303812517959
+4,11,famges,personal status and sex,0.004175981211133745
+4,12,buerge,other debtors or guarantors,0.0033301004535360723
+4,13,gastarb,foreign-worker status,0.001966620035023098
+4,14,telef,telephone,0.0011234177880531937
+4,15,rate,installment rate,0.001040353614258152
+4,16,wohnzeit,present residence duration,0.0009940666585781244
+4,17,beruf,job,0.0006213359884443409
+4,18,bishkred,number of existing credits,0.0003617934351997261
+4,19,pers,people liable,0.00018862765369420664
+4,20,alter,age,0.0
+5,1,laufkont,checking-account status,0.05117912061045751
+5,2,hoehe,credit amount,0.03006061799125992
+5,3,laufzeit,duration,0.027104202347021378
+5,4,verw,purpose,0.025495182407180867
+5,5,moral,credit history,0.02136374617004208
+5,6,verm,property,0.01670112200861834
+5,7,sparkont,savings status,0.015331098795349808
+5,8,wohn,housing,0.014668535539030497
+5,9,famges,personal status and sex,0.010808353121973216
+5,10,beszeit,employment duration,0.01079756492219612
+5,11,alter,age,0.010649606183577909
+5,12,gastarb,foreign-worker status,0.007386665142912553
+5,13,buerge,other debtors or guarantors,0.006910364922503756
+5,14,weitkred,other installment plans,0.0030044240451772286
+5,15,beruf,job,0.0020419269220760955
+5,16,rate,installment rate,0.0015442533538046338
+5,17,bishkred,number of existing credits,0.0012969851516974225
+5,18,wohnzeit,present residence duration,0.0004050938817654337
+5,19,pers,people liable,0.0001399949970242731
+5,20,telef,telephone,2.2248143484115968e-05
+6,1,laufkont,checking-account status,0.069533925027838
+6,2,moral,credit history,0.03721270446993945
+6,3,sparkont,savings status,0.032159267269303765
+6,4,verw,purpose,0.01958553309064326
+6,5,laufzeit,duration,0.018661649661368296
+6,6,hoehe,credit amount,0.013073295768411208
+6,7,beszeit,employment duration,0.010130878051085368
+6,8,wohn,housing,0.008934675231319467
+6,9,verm,property,0.008498271240374139
+6,10,rate,installment rate,0.0051500521295353985
+6,11,gastarb,foreign-worker status,0.004876969656337854
+6,12,weitkred,other installment plans,0.003738607869591404
+6,13,bishkred,number of existing credits,0.0034127463117394913
+6,14,buerge,other debtors or guarantors,0.0032457775517312493
+6,15,beruf,job,0.0030894514736809556
+6,16,famges,personal status and sex,0.0011228465540984722
+6,17,telef,telephone,0.0008664640088826003
+6,18,wohnzeit,present residence duration,0.0008218892745408823
+6,19,pers,people liable,0.0005333971475582899
+6,20,alter,age,0.0
+7,1,laufkont,checking-account status,0.05813582170317711
+7,2,moral,credit history,0.035509725797824396
+7,3,laufzeit,duration,0.029694892118928395
+7,4,verw,purpose,0.01735775060899006
+7,5,sparkont,savings status,0.016304199308886894
+7,6,verm,property,0.012621179003012989
+7,7,wohn,housing,0.00938037477515713
+7,8,beszeit,employment duration,0.008181668817500154
+7,9,weitkred,other installment plans,0.007870089443065137
+7,10,buerge,other debtors or guarantors,0.0030170008502689583
+7,11,bishkred,number of existing credits,0.002258012513469961
+7,12,gastarb,foreign-worker status,0.002096727589044955
+7,13,famges,personal status and sex,0.002064436747691384
+7,14,hoehe,credit amount,0.0015098151527754844
+7,15,rate,installment rate,0.0014076313741384627
+7,16,wohnzeit,present residence duration,0.0013136944719392696
+7,17,beruf,job,0.000997661254677193
+7,18,pers,people liable,0.0002573667622347009
+7,19,telef,telephone,3.307063719587555e-05
+7,20,alter,age,0.0
+8,1,laufkont,checking-account status,0.04946649517509326
+8,2,laufzeit,duration,0.04774076302080421
+8,3,hoehe,credit amount,0.039775826607879594
+8,4,moral,credit history,0.027612295395183964
+8,5,verw,purpose,0.021288763646575493
+8,6,sparkont,savings status,0.020532944415812604
+8,7,beszeit,employment duration,0.015696345639995238
+8,8,famges,personal status and sex,0.011714803972285623
+8,9,verm,property,0.011631072326321157
+8,10,wohn,housing,0.006475661665762467
+8,11,buerge,other debtors or guarantors,0.0063819089894711425
+8,12,gastarb,foreign-worker status,0.0056247853887717095
+8,13,weitkred,other installment plans,0.005004399814169516
+8,14,bishkred,number of existing credits,0.0034926488370960185
+8,15,wohnzeit,present residence duration,0.001955700665370902
+8,16,beruf,job,0.0015849941427513517
+8,17,rate,installment rate,0.0013163031183739543
+8,18,telef,telephone,0.001099043175309733
+8,19,pers,people liable,0.0001744731765870866
+8,20,alter,age,0.0
+9,1,laufkont,checking-account status,0.06659234654170351
+9,2,moral,credit history,0.04550600933240538
+9,3,laufzeit,duration,0.03432083234935579
+9,4,hoehe,credit amount,0.024694864805191452
+9,5,sparkont,savings status,0.021464203353021648
+9,6,wohn,housing,0.01887142152463686
+9,7,verm,property,0.015530308177519492
+9,8,beszeit,employment duration,0.014540271311161465
+9,9,verw,purpose,0.011927179239870023
+9,10,weitkred,other installment plans,0.006793212337596638
+9,11,famges,personal status and sex,0.005101156796377432
+9,12,bishkred,number of existing credits,0.004449263847793011
+9,13,beruf,job,0.0035108422892495272
+9,14,gastarb,foreign-worker status,0.0017690344692111865
+9,15,buerge,other debtors or guarantors,0.0016545720200379227
+9,16,rate,installment rate,0.0015268763825254383
+9,17,wohnzeit,present residence duration,0.0003313757248748356
+9,18,telef,telephone,0.00010869327296014752
+9,19,pers,people liable,5.337991728637803e-07
+9,20,alter,age,0.0
+10,1,laufkont,checking-account status,0.07557487505237051
+10,2,laufzeit,duration,0.0723979899709164
+10,3,moral,credit history,0.0359306567556211
+10,4,verm,property,0.020803291586557637
+10,5,hoehe,credit amount,0.01978717042580258
+10,6,verw,purpose,0.01632998724880101
+10,7,sparkont,savings status,0.014074831895576404
+10,8,beszeit,employment duration,0.010675607010251553
+10,9,weitkred,other installment plans,0.010114607880268106
+10,10,wohn,housing,0.007415151445065327
+10,11,famges,personal status and sex,0.005351662124286949
+10,12,buerge,other debtors or guarantors,0.00322182705131957
+10,13,gastarb,foreign-worker status,0.0031381426272675816
+10,14,beruf,job,0.0024185882741654674
+10,15,rate,installment rate,0.001984493886137112
+10,16,wohnzeit,present residence duration,0.0013470662311443476
+10,17,bishkred,number of existing credits,0.0007439908195533071
+10,18,telef,telephone,0.000713401388601903
+10,19,pers,people liable,0.000252911722637833
+10,20,alter,age,0.0
+11,1,laufkont,checking-account status,0.07855604287918501
+11,2,moral,credit history,0.039730804150546695
+11,3,laufzeit,duration,0.02407827837164689
+11,4,sparkont,savings status,0.018010935067223163
+11,5,alter,age,0.01509805021874544
+11,6,verw,purpose,0.013289974159981083
+11,7,beszeit,employment duration,0.012299856291363404
+11,8,wohn,housing,0.011464401570191185
+11,9,hoehe,credit amount,0.01008034502595212
+11,10,buerge,other debtors or guarantors,0.009240730913654994
+11,11,verm,property,0.008831697043211933
+11,12,famges,personal status and sex,0.007822939006378316
+11,13,gastarb,foreign-worker status,0.006327569017143265
+11,14,weitkred,other installment plans,0.005025052608918182
+11,15,rate,installment rate,0.0031020384081204833
+11,16,telef,telephone,0.0020503725947228213
+11,17,wohnzeit,present residence duration,0.00174365156168374
+11,18,bishkred,number of existing credits,0.0014785424903283172
+11,19,pers,people liable,0.0003062169834714412
+11,20,beruf,job,0.00011605500418425396
+12,1,laufkont,checking-account status,0.06991146563221268
+12,2,verw,purpose,0.03351258998333742
+12,3,alter,age,0.029979174974908984
+12,4,sparkont,savings status,0.02690725815259884
+12,5,moral,credit history,0.025537884487758927
+12,6,hoehe,credit amount,0.021213924349942292
+12,7,verm,property,0.01339508201780562
+12,8,laufzeit,duration,0.012957601717410672
+12,9,wohn,housing,0.012893822013974793
+12,10,famges,personal status and sex,0.010787256076105867
+12,11,weitkred,other installment plans,0.010016055221393788
+12,12,beszeit,employment duration,0.0075131937257549575
+12,13,rate,installment rate,0.006023755685913165
+12,14,gastarb,foreign-worker status,0.005335948892917908
+12,15,bishkred,number of existing credits,0.004082033752094018
+12,16,wohnzeit,present residence duration,0.0024660220635718544
+12,17,buerge,other debtors or guarantors,0.0014267923922923961
+12,18,beruf,job,0.0013834109847859627
+12,19,pers,people liable,0.0010533382564495153
+12,20,telef,telephone,0.00031617033953557083
+13,1,laufkont,checking-account status,0.0643042000988566
+13,2,laufzeit,duration,0.052175486943758065
+13,3,hoehe,credit amount,0.03815678801635891
+13,4,sparkont,savings status,0.0314781223132292
+13,5,moral,credit history,0.03033597282369909
+13,6,verm,property,0.02127420712938391
+13,7,verw,purpose,0.019908956853589677
+13,8,beszeit,employment duration,0.012505597657806483
+13,9,alter,age,0.01228061594105534
+13,10,wohn,housing,0.010181237358829698
+13,11,famges,personal status and sex,0.008256862393964587
+13,12,weitkred,other installment plans,0.006745505121927287
+13,13,gastarb,foreign-worker status,0.004768548816617372
+13,14,bishkred,number of existing credits,0.0033325112055959897
+13,15,rate,installment rate,0.0026844863747162717
+13,16,beruf,job,0.0025580284214201457
+13,17,buerge,other debtors or guarantors,0.0014189709219459348
+13,18,pers,people liable,0.0004301259587196765
+13,19,wohnzeit,present residence duration,0.00021291847710941392
+13,20,telef,telephone,7.050729166263592e-06
+14,1,laufkont,checking-account status,0.05314223502729396
+14,2,alter,age,0.049325888000237406
+14,3,moral,credit history,0.03112499360702163
+14,4,hoehe,credit amount,0.024456420869534368
+14,5,sparkont,savings status,0.024090735763248765
+14,6,verw,purpose,0.023621144337047005
+14,7,verm,property,0.014624351926338153
+14,8,laufzeit,duration,0.01372939255656469
+14,9,gastarb,foreign-worker status,0.010281865358916537
+14,10,wohn,housing,0.009446712570962579
+14,11,beszeit,employment duration,0.0089504967808723
+14,12,weitkred,other installment plans,0.0089103578786765
+14,13,rate,installment rate,0.00691316905271569
+14,14,famges,personal status and sex,0.005510152117075243
+14,15,buerge,other debtors or guarantors,0.005339868398452061
+14,16,beruf,job,0.0027411123508351287
+14,17,bishkred,number of existing credits,0.0026517964396207787
+14,18,wohnzeit,present residence duration,0.0006963135330813608
+14,19,telef,telephone,0.0004189291190348221
+14,20,pers,people liable,0.00019250401207304702
+15,1,laufkont,checking-account status,0.06345398840321857
+15,2,hoehe,credit amount,0.03433318384551476
+15,3,laufzeit,duration,0.03344651951396127
+15,4,moral,credit history,0.030510253353859484
+15,5,verw,purpose,0.02068839269328407
+15,6,sparkont,savings status,0.019758352306217655
+15,7,verm,property,0.009795635325939744
+15,8,beszeit,employment duration,0.008209325996093114
+15,9,wohn,housing,0.006718584392008037
+15,10,rate,installment rate,0.005519223128639297
+15,11,weitkred,other installment plans,0.004544741748570169
+15,12,famges,personal status and sex,0.0028686801317976546
+15,13,gastarb,foreign-worker status,0.0017690344692111865
+15,14,wohnzeit,present residence duration,0.0016313808877860547
+15,15,bishkred,number of existing credits,0.0014339121913795813
+15,16,alter,age,0.0012460323640000048
+15,17,telef,telephone,0.0010597608151365068
+15,18,buerge,other debtors or guarantors,0.0007694548474056484
+15,19,beruf,job,0.00047570130158841595
+15,20,pers,people liable,0.0003062169834714412
+16,1,laufkont,checking-account status,0.06772724680632278
+16,2,laufzeit,duration,0.05251139387265491
+16,3,moral,credit history,0.021113724629395175
+16,4,verw,purpose,0.019472187406097356
+16,5,beszeit,employment duration,0.015326042297282627
+16,6,sparkont,savings status,0.013893282465762519
+16,7,rate,installment rate,0.00952962980613778
+16,8,hoehe,credit amount,0.007156561174771481
+16,9,wohn,housing,0.007061252111317445
+16,10,verm,property,0.006859680577012389
+16,11,famges,personal status and sex,0.004713159232623096
+16,12,buerge,other debtors or guarantors,0.0035852781738842654
+16,13,weitkred,other installment plans,0.0034546407489540742
+16,14,gastarb,foreign-worker status,0.0031381426272675816
+16,15,bishkred,number of existing credits,0.0025029545075497695
+16,16,beruf,job,0.0008374333309396631
+16,17,wohnzeit,present residence duration,0.0005018177949137059
+16,18,pers,people liable,0.00043206009274529555
+16,19,telef,telephone,0.0003852740776389696
+16,20,alter,age,0.0
+17,1,laufkont,checking-account status,0.05958441499314174
+17,2,moral,credit history,0.030256639374061305
+17,3,laufzeit,duration,0.02589417447880482
+17,4,sparkont,savings status,0.015862231312135478
+17,5,verm,property,0.013465326312438797
+17,6,hoehe,credit amount,0.012107491358382516
+17,7,verw,purpose,0.010916439607914585
+17,8,alter,age,0.009628198656852494
+17,9,beszeit,employment duration,0.005490277284664044
+17,10,bishkred,number of existing credits,0.0050831541165358585
+17,11,wohn,housing,0.004772528519913138
+17,12,gastarb,foreign-worker status,0.003948472935693285
+17,13,weitkred,other installment plans,0.003724719415742414
+17,14,rate,installment rate,0.00329935578465608
+17,15,buerge,other debtors or guarantors,0.0031098150876857147
+17,16,beruf,job,0.0029796439399834666
+17,17,famges,personal status and sex,0.0020356539465426204
+17,18,telef,telephone,0.0006417788032349048
+17,19,wohnzeit,present residence duration,0.00011027252533632459
+17,20,pers,people liable,1.2373997649250956e-05
+18,1,laufkont,checking-account status,0.06369354112206013
+18,2,moral,credit history,0.041984171216608926
+18,3,sparkont,savings status,0.021757202163215222
+18,4,verw,purpose,0.018628861541595675
+18,5,laufzeit,duration,0.014323169814013381
+18,6,beszeit,employment duration,0.013466878454992101
+18,7,wohn,housing,0.011748384043628407
+18,8,famges,personal status and sex,0.009181348569895054
+18,9,weitkred,other installment plans,0.006323396595498812
+18,10,hoehe,credit amount,0.005094943450403955
+18,11,verm,property,0.004791339490412216
+18,12,rate,installment rate,0.003998973169650921
+18,13,alter,age,0.003456004998968476
+18,14,bishkred,number of existing credits,0.002369152869817792
+18,15,beruf,job,0.0022811553267276657
+18,16,gastarb,foreign-worker status,0.002274748758660853
+18,17,wohnzeit,present residence duration,0.0013924902722084326
+18,18,buerge,other debtors or guarantors,0.0012446655064595677
+18,19,telef,telephone,0.0012048476008995057
+18,20,pers,people liable,0.00027572447162471647
+19,1,laufkont,checking-account status,0.0433080636363284
+19,2,laufzeit,duration,0.0410060165081525
+19,3,hoehe,credit amount,0.02827899647133325
+19,4,moral,credit history,0.026647441676685063
+19,5,verw,purpose,0.02445185034710829
+19,6,sparkont,savings status,0.016542245987433382
+19,7,verm,property,0.01095364723929837
+19,8,beszeit,employment duration,0.008920096388169665
+19,9,weitkred,other installment plans,0.005880936914065299
+19,10,famges,personal status and sex,0.004717967510004459
+19,11,gastarb,foreign-worker status,0.0039863888141244645
+19,12,beruf,job,0.003574567617418846
+19,13,buerge,other debtors or guarantors,0.003400143925861826
+19,14,wohn,housing,0.002733082394734937
+19,15,rate,installment rate,0.002360577089013008
+19,16,wohnzeit,present residence duration,0.0013251045475372314
+19,17,bishkred,number of existing credits,0.001119628139386578
+19,18,telef,telephone,0.0008893691698342587
+19,19,pers,people liable,0.0003456166662271637
+19,20,alter,age,0.0

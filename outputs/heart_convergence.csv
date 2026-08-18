@@ -1,0 +1,241 @@
+heldout_site,repeat,missing_indicators,model,started,retained,excluded,iterations,converged
+Cleveland,0,False,logistic_regression,1,1,0,8,True
+Cleveland,0,False,logistic_regression,1,1,0,8,True
+Cleveland,0,False,logistic_regression,1,1,0,8,True
+Cleveland,0,True,logistic_regression,1,1,0,8,True
+Cleveland,0,True,logistic_regression,1,1,0,8,True
+Cleveland,0,True,logistic_regression,1,1,0,8,True
+Cleveland,1,False,logistic_regression,1,1,0,8,True
+Cleveland,1,False,logistic_regression,1,1,0,8,True
+Cleveland,1,False,logistic_regression,1,1,0,8,True
+Cleveland,1,True,logistic_regression,1,1,0,8,True
+Cleveland,1,True,logistic_regression,1,1,0,8,True
+Cleveland,1,True,logistic_regression,1,1,0,8,True
+Cleveland,2,False,logistic_regression,1,1,0,8,True
+Cleveland,2,False,logistic_regression,1,1,0,8,True
+Cleveland,2,False,logistic_regression,1,1,0,8,True
+Cleveland,2,True,logistic_regression,1,1,0,8,True
+Cleveland,2,True,logistic_regression,1,1,0,8,True
+Cleveland,2,True,logistic_regression,1,1,0,8,True
+Cleveland,3,False,logistic_regression,1,1,0,8,True
+Cleveland,3,False,logistic_regression,1,1,0,8,True
+Cleveland,3,False,logistic_regression,1,1,0,8,True
+Cleveland,3,True,logistic_regression,1,1,0,8,True
+Cleveland,3,True,logistic_regression,1,1,0,8,True
+Cleveland,3,True,logistic_regression,1,1,0,8,True
+Cleveland,4,False,logistic_regression,1,1,0,8,True
+Cleveland,4,False,logistic_regression,1,1,0,8,True
+Cleveland,4,False,logistic_regression,1,1,0,8,True
+Cleveland,4,True,logistic_regression,1,1,0,9,True
+Cleveland,4,True,logistic_regression,1,1,0,9,True
+Cleveland,4,True,logistic_regression,1,1,0,9,True
+Cleveland,5,False,logistic_regression,1,1,0,8,True
+Cleveland,5,False,logistic_regression,1,1,0,8,True
+Cleveland,5,False,logistic_regression,1,1,0,8,True
+Cleveland,5,True,logistic_regression,1,1,0,8,True
+Cleveland,5,True,logistic_regression,1,1,0,8,True
+Cleveland,5,True,logistic_regression,1,1,0,8,True
+Cleveland,6,False,logistic_regression,1,1,0,8,True
+Cleveland,6,False,logistic_regression,1,1,0,8,True
+Cleveland,6,False,logistic_regression,1,1,0,8,True
+Cleveland,6,True,logistic_regression,1,1,0,8,True
+Cleveland,6,True,logistic_regression,1,1,0,8,True
+Cleveland,6,True,logistic_regression,1,1,0,8,True
+Cleveland,7,False,logistic_regression,1,1,0,7,True
+Cleveland,7,False,logistic_regression,1,1,0,7,True
+Cleveland,7,False,logistic_regression,1,1,0,7,True
+Cleveland,7,True,logistic_regression,1,1,0,8,True
+Cleveland,7,True,logistic_regression,1,1,0,8,True
+Cleveland,7,True,logistic_regression,1,1,0,8,True
+Cleveland,8,False,logistic_regression,1,1,0,8,True
+Cleveland,8,False,logistic_regression,1,1,0,8,True
+Cleveland,8,False,logistic_regression,1,1,0,8,True
+Cleveland,8,True,logistic_regression,1,1,0,8,True
+Cleveland,8,True,logistic_regression,1,1,0,8,True
+Cleveland,8,True,logistic_regression,1,1,0,8,True
+Cleveland,9,False,logistic_regression,1,1,0,9,True
+Cleveland,9,False,logistic_regression,1,1,0,9,True
+Cleveland,9,False,logistic_regression,1,1,0,9,True
+Cleveland,9,True,logistic_regression,1,1,0,8,True
+Cleveland,9,True,logistic_regression,1,1,0,8,True
+Cleveland,9,True,logistic_regression,1,1,0,8,True
+Hungary,0,False,logistic_regression,1,1,0,8,True
+Hungary,0,False,logistic_regression,1,1,0,8,True
+Hungary,0,False,logistic_regression,1,1,0,8,True
+Hungary,0,True,logistic_regression,1,1,0,8,True
+Hungary,0,True,logistic_regression,1,1,0,8,True
+Hungary,0,True,logistic_regression,1,1,0,8,True
+Hungary,1,False,logistic_regression,1,1,0,8,True
+Hungary,1,False,logistic_regression,1,1,0,8,True
+Hungary,1,False,logistic_regression,1,1,0,8,True
+Hungary,1,True,logistic_regression,1,1,0,9,True
+Hungary,1,True,logistic_regression,1,1,0,9,True
+Hungary,1,True,logistic_regression,1,1,0,9,True
+Hungary,2,False,logistic_regression,1,1,0,8,True
+Hungary,2,False,logistic_regression,1,1,0,8,True
+Hungary,2,False,logistic_regression,1,1,0,8,True
+Hungary,2,True,logistic_regression,1,1,0,9,True
+Hungary,2,True,logistic_regression,1,1,0,9,True
+Hungary,2,True,logistic_regression,1,1,0,9,True
+Hungary,3,False,logistic_regression,1,1,0,8,True
+Hungary,3,False,logistic_regression,1,1,0,8,True
+Hungary,3,False,logistic_regression,1,1,0,8,True
+Hungary,3,True,logistic_regression,1,1,0,8,True
+Hungary,3,True,logistic_regression,1,1,0,8,True
+Hungary,3,True,logistic_regression,1,1,0,8,True
+Hungary,4,False,logistic_regression,1,1,0,8,True
+Hungary,4,False,logistic_regression,1,1,0,8,True
+Hungary,4,False,logistic_regression,1,1,0,8,True
+Hungary,4,True,logistic_regression,1,1,0,9,True
+Hungary,4,True,logistic_regression,1,1,0,9,True
+Hungary,4,True,logistic_regression,1,1,0,9,True
+Hungary,5,False,logistic_regression,1,1,0,8,True
+Hungary,5,False,logistic_regression,1,1,0,8,True
+Hungary,5,False,logistic_regression,1,1,0,8,True
+Hungary,5,True,logistic_regression,1,1,0,9,True
+Hungary,5,True,logistic_regression,1,1,0,9,True
+Hungary,5,True,logistic_regression,1,1,0,9,True
+Hungary,6,False,logistic_regression,1,1,0,8,True
+Hungary,6,False,logistic_regression,1,1,0,8,True
+Hungary,6,False,logistic_regression,1,1,0,8,True
+Hungary,6,True,logistic_regression,1,1,0,8,True
+Hungary,6,True,logistic_regression,1,1,0,8,True
+Hungary,6,True,logistic_regression,1,1,0,8,True
+Hungary,7,False,logistic_regression,1,1,0,8,True
+Hungary,7,False,logistic_regression,1,1,0,8,True
+Hungary,7,False,logistic_regression,1,1,0,8,True
+Hungary,7,True,logistic_regression,1,1,0,8,True
+Hungary,7,True,logistic_regression,1,1,0,8,True
+Hungary,7,True,logistic_regression,1,1,0,8,True
+Hungary,8,False,logistic_regression,1,1,0,8,True
+Hungary,8,False,logistic_regression,1,1,0,8,True
+Hungary,8,False,logistic_regression,1,1,0,8,True
+Hungary,8,True,logistic_regression,1,1,0,8,True
+Hungary,8,True,logistic_regression,1,1,0,8,True
+Hungary,8,True,logistic_regression,1,1,0,8,True
+Hungary,9,False,logistic_regression,1,1,0,8,True
+Hungary,9,False,logistic_regression,1,1,0,8,True
+Hungary,9,False,logistic_regression,1,1,0,8,True
+Hungary,9,True,logistic_regression,1,1,0,9,True
+Hungary,9,True,logistic_regression,1,1,0,9,True
+Hungary,9,True,logistic_regression,1,1,0,9,True
+Switzerland,0,False,logistic_regression,1,1,0,7,True
+Switzerland,0,False,logistic_regression,1,1,0,7,True
+Switzerland,0,False,logistic_regression,1,1,0,7,True
+Switzerland,0,True,logistic_regression,1,1,0,8,True
+Switzerland,0,True,logistic_regression,1,1,0,8,True
+Switzerland,0,True,logistic_regression,1,1,0,8,True
+Switzerland,1,False,logistic_regression,1,1,0,8,True
+Switzerland,1,False,logistic_regression,1,1,0,8,True
+Switzerland,1,False,logistic_regression,1,1,0,8,True
+Switzerland,1,True,logistic_regression,1,1,0,8,True
+Switzerland,1,True,logistic_regression,1,1,0,8,True
+Switzerland,1,True,logistic_regression,1,1,0,8,True
+Switzerland,2,False,logistic_regression,1,1,0,8,True
+Switzerland,2,False,logistic_regression,1,1,0,8,True
+Switzerland,2,False,logistic_regression,1,1,0,8,True
+Switzerland,2,True,logistic_regression,1,1,0,8,True
+Switzerland,2,True,logistic_regression,1,1,0,8,True
+Switzerland,2,True,logistic_regression,1,1,0,8,True
+Switzerland,3,False,logistic_regression,1,1,0,8,True
+Switzerland,3,False,logistic_regression,1,1,0,8,True
+Switzerland,3,False,logistic_regression,1,1,0,8,True
+Switzerland,3,True,logistic_regression,1,1,0,8,True
+Switzerland,3,True,logistic_regression,1,1,0,8,True
+Switzerland,3,True,logistic_regression,1,1,0,8,True
+Switzerland,4,False,logistic_regression,1,1,0,7,True
+Switzerland,4,False,logistic_regression,1,1,0,7,True
+Switzerland,4,False,logistic_regression,1,1,0,7,True
+Switzerland,4,True,logistic_regression,1,1,0,8,True
+Switzerland,4,True,logistic_regression,1,1,0,8,True
+Switzerland,4,True,logistic_regression,1,1,0,8,True
+Switzerland,5,False,logistic_regression,1,1,0,8,True
+Switzerland,5,False,logistic_regression,1,1,0,8,True
+Switzerland,5,False,logistic_regression,1,1,0,8,True
+Switzerland,5,True,logistic_regression,1,1,0,8,True
+Switzerland,5,True,logistic_regression,1,1,0,8,True
+Switzerland,5,True,logistic_regression,1,1,0,8,True
+Switzerland,6,False,logistic_regression,1,1,0,8,True
+Switzerland,6,False,logistic_regression,1,1,0,8,True
+Switzerland,6,False,logistic_regression,1,1,0,8,True
+Switzerland,6,True,logistic_regression,1,1,0,8,True
+Switzerland,6,True,logistic_regression,1,1,0,8,True
+Switzerland,6,True,logistic_regression,1,1,0,8,True
+Switzerland,7,False,logistic_regression,1,1,0,8,True
+Switzerland,7,False,logistic_regression,1,1,0,8,True
+Switzerland,7,False,logistic_regression,1,1,0,8,True
+Switzerland,7,True,logistic_regression,1,1,0,8,True
+Switzerland,7,True,logistic_regression,1,1,0,8,True
+Switzerland,7,True,logistic_regression,1,1,0,8,True
+Switzerland,8,False,logistic_regression,1,1,0,8,True
+Switzerland,8,False,logistic_regression,1,1,0,8,True
+Switzerland,8,False,logistic_regression,1,1,0,8,True
+Switzerland,8,True,logistic_regression,1,1,0,8,True
+Switzerland,8,True,logistic_regression,1,1,0,8,True
+Switzerland,8,True,logistic_regression,1,1,0,8,True
+Switzerland,9,False,logistic_regression,1,1,0,8,True
+Switzerland,9,False,logistic_regression,1,1,0,8,True
+Switzerland,9,False,logistic_regression,1,1,0,8,True
+Switzerland,9,True,logistic_regression,1,1,0,8,True
+Switzerland,9,True,logistic_regression,1,1,0,8,True
+Switzerland,9,True,logistic_regression,1,1,0,8,True
+VA Long Beach,0,False,logistic_regression,1,1,0,8,True
+VA Long Beach,0,False,logistic_regression,1,1,0,8,True
+VA Long Beach,0,False,logistic_regression,1,1,0,8,True
+VA Long Beach,0,True,logistic_regression,1,1,0,9,True
+VA Long Beach,0,True,logistic_regression,1,1,0,9,True
+VA Long Beach,0,True,logistic_regression,1,1,0,9,True
+VA Long Beach,1,False,logistic_regression,1,1,0,8,True
+VA Long Beach,1,False,logistic_regression,1,1,0,8,True
+VA Long Beach,1,False,logistic_regression,1,1,0,8,True
+VA Long Beach,1,True,logistic_regression,1,1,0,9,True
+VA Long Beach,1,True,logistic_regression,1,1,0,9,True
+VA Long Beach,1,True,logistic_regression,1,1,0,9,True
+VA Long Beach,2,False,logistic_regression,1,1,0,9,True
+VA Long Beach,2,False,logistic_regression,1,1,0,9,True
+VA Long Beach,2,False,logistic_regression,1,1,0,9,True
+VA Long Beach,2,True,logistic_regression,1,1,0,9,True
+VA Long Beach,2,True,logistic_regression,1,1,0,9,True
+VA Long Beach,2,True,logistic_regression,1,1,0,9,True
+VA Long Beach,3,False,logistic_regression,1,1,0,8,True
+VA Long Beach,3,False,logistic_regression,1,1,0,8,True
+VA Long Beach,3,False,logistic_regression,1,1,0,8,True
+VA Long Beach,3,True,logistic_regression,1,1,0,9,True
+VA Long Beach,3,True,logistic_regression,1,1,0,9,True
+VA Long Beach,3,True,logistic_regression,1,1,0,9,True
+VA Long Beach,4,False,logistic_regression,1,1,0,8,True
+VA Long Beach,4,False,logistic_regression,1,1,0,8,True
+VA Long Beach,4,False,logistic_regression,1,1,0,8,True
+VA Long Beach,4,True,logistic_regression,1,1,0,10,True
+VA Long Beach,4,True,logistic_regression,1,1,0,10,True
+VA Long Beach,4,True,logistic_regression,1,1,0,10,True
+VA Long Beach,5,False,logistic_regression,1,1,0,8,True
+VA Long Beach,5,False,logistic_regression,1,1,0,8,True
+VA Long Beach,5,False,logistic_regression,1,1,0,8,True
+VA Long Beach,5,True,logistic_regression,1,1,0,9,True
+VA Long Beach,5,True,logistic_regression,1,1,0,9,True
+VA Long Beach,5,True,logistic_regression,1,1,0,9,True
+VA Long Beach,6,False,logistic_regression,1,1,0,8,True
+VA Long Beach,6,False,logistic_regression,1,1,0,8,True
+VA Long Beach,6,False,logistic_regression,1,1,0,8,True
+VA Long Beach,6,True,logistic_regression,1,1,0,9,True
+VA Long Beach,6,True,logistic_regression,1,1,0,9,True
+VA Long Beach,6,True,logistic_regression,1,1,0,9,True
+VA Long Beach,7,False,logistic_regression,1,1,0,8,True
+VA Long Beach,7,False,logistic_regression,1,1,0,8,True
+VA Long Beach,7,False,logistic_regression,1,1,0,8,True
+VA Long Beach,7,True,logistic_regression,1,1,0,9,True
+VA Long Beach,7,True,logistic_regression,1,1,0,9,True
+VA Long Beach,7,True,logistic_regression,1,1,0,9,True
+VA Long Beach,8,False,logistic_regression,1,1,0,8,True
+VA Long Beach,8,False,logistic_regression,1,1,0,8,True
+VA Long Beach,8,False,logistic_regression,1,1,0,8,True
+VA Long Beach,8,True,logistic_regression,1,1,0,9,True
+VA Long Beach,8,True,logistic_regression,1,1,0,9,True
+VA Long Beach,8,True,logistic_regression,1,1,0,9,True
+VA Long Beach,9,False,logistic_regression,1,1,0,8,True
+VA Long Beach,9,False,logistic_regression,1,1,0,8,True
+VA Long Beach,9,False,logistic_regression,1,1,0,8,True
+VA Long Beach,9,True,logistic_regression,1,1,0,8,True
+VA Long Beach,9,True,logistic_regression,1,1,0,8,True
+VA Long Beach,9,True,logistic_regression,1,1,0,8,True

@@ -1,0 +1,1261 @@
+repeat,target_definition,metric,delta_ood_minus_id
+0,"domain
+    cpi_constant_2018usd
+Name: 0, dtype: object",prevalence,0.011694806747525655
+0,"domain
+    cpi_constant_2018usd
+Name: 0, dtype: object",auroc,-0.013552761858817042
+0,"domain
+    cpi_constant_2018usd
+Name: 0, dtype: object",average_precision,-0.014490937535751258
+0,"domain
+    cpi_constant_2018usd
+Name: 0, dtype: object",pr_skill,-0.029579847128741843
+0,"domain
+    cpi_constant_2018usd
+Name: 0, dtype: object",brier,0.008849389646474443
+0,"domain
+    cpi_constant_2018usd
+Name: 0, dtype: object",log_loss,0.023865396007820006
+0,"domain
+    cpi_constant_2018usd
+Name: 0, dtype: object",ece,-0.00636012922826399
+0,"domain
+    cpi_constant_2018usd
+Name: 0, dtype: object",calibration_intercept,-0.09679377965634393
+0,"domain
+    cpi_constant_2018usd
+Name: 0, dtype: object",calibration_slope,-0.0853164618684501
+0,"domain
+    cpi_constant_2018usd
+Name: 0, dtype: object",hcep_080,0.005389745131683665
+0,"domain
+    cpi_constant_2018usd
+Name: 0, dtype: object",hcep_090,0.0037126822255841383
+0,"domain
+    cpi_constant_2018usd
+Name: 0, dtype: object",hcep_095,0.0005695775116622867
+0,"domain
+    cpi_constant_2018usd
+Name: 0, dtype: object",aurc,0.012111259598215393
+0,"domain
+    cpi_constant_2018usd
+Name: 0, dtype: object",excess_aurc,0.00900169795864942
+0,"domain
+    survey_year_adjusted_50000
+Name: 1, dtype: object",prevalence,0.1253935518093111
+0,"domain
+    survey_year_adjusted_50000
+Name: 1, dtype: object",auroc,-0.01609814550018418
+0,"domain
+    survey_year_adjusted_50000
+Name: 1, dtype: object",average_precision,0.04305385670680384
+0,"domain
+    survey_year_adjusted_50000
+Name: 1, dtype: object",pr_skill,0.013870337945052436
+0,"domain
+    survey_year_adjusted_50000
+Name: 1, dtype: object",brier,0.02660924328016437
+0,"domain
+    survey_year_adjusted_50000
+Name: 1, dtype: object",log_loss,0.07337079833191368
+0,"domain
+    survey_year_adjusted_50000
+Name: 1, dtype: object",ece,0.08059934121702687
+0,"domain
+    survey_year_adjusted_50000
+Name: 1, dtype: object",calibration_intercept,0.681793250280611
+0,"domain
+    survey_year_adjusted_50000
+Name: 1, dtype: object",calibration_slope,-0.12350870852777274
+0,"domain
+    survey_year_adjusted_50000
+Name: 1, dtype: object",hcep_080,0.02287455993042982
+0,"domain
+    survey_year_adjusted_50000
+Name: 1, dtype: object",hcep_090,0.012973276295438126
+0,"domain
+    survey_year_adjusted_50000
+Name: 1, dtype: object",hcep_095,0.003975018540468814
+0,"domain
+    survey_year_adjusted_50000
+Name: 1, dtype: object",aurc,0.03893676948185648
+0,"domain
+    survey_year_adjusted_50000
+Name: 1, dtype: object",excess_aurc,0.029608391724543055
+0,"domain
+    unadjusted_reported_income_50000
+Name: 2, dtype: object",prevalence,0.12285650607907916
+0,"domain
+    unadjusted_reported_income_50000
+Name: 2, dtype: object",auroc,-0.013131440840759678
+0,"domain
+    unadjusted_reported_income_50000
+Name: 2, dtype: object",average_precision,0.04987518108141242
+0,"domain
+    unadjusted_reported_income_50000
+Name: 2, dtype: object",pr_skill,0.02320479625514471
+0,"domain
+    unadjusted_reported_income_50000
+Name: 2, dtype: object",brier,0.02652203060821426
+0,"domain
+    unadjusted_reported_income_50000
+Name: 2, dtype: object",log_loss,0.07411299572185748
+0,"domain
+    unadjusted_reported_income_50000
+Name: 2, dtype: object",ece,0.08207307523322184
+0,"domain
+    unadjusted_reported_income_50000
+Name: 2, dtype: object",calibration_intercept,0.6637154747162317
+0,"domain
+    unadjusted_reported_income_50000
+Name: 2, dtype: object",calibration_slope,-0.09663921517194762
+0,"domain
+    unadjusted_reported_income_50000
+Name: 2, dtype: object",hcep_080,0.023789836982480404
+0,"domain
+    unadjusted_reported_income_50000
+Name: 2, dtype: object",hcep_090,0.012003430162375768
+0,"domain
+    unadjusted_reported_income_50000
+Name: 2, dtype: object",hcep_095,0.0040789045117892945
+0,"domain
+    unadjusted_reported_income_50000
+Name: 2, dtype: object",aurc,0.0378014519226197
+0,"domain
+    unadjusted_reported_income_50000
+Name: 2, dtype: object",excess_aurc,0.028571104462527225
+1,"domain
+    cpi_constant_2018usd
+Name: 3, dtype: object",prevalence,0.013059177118383669
+1,"domain
+    cpi_constant_2018usd
+Name: 3, dtype: object",auroc,-0.003620358784355071
+1,"domain
+    cpi_constant_2018usd
+Name: 3, dtype: object",average_precision,0.0017886672443545582
+1,"domain
+    cpi_constant_2018usd
+Name: 3, dtype: object",pr_skill,-0.003809264236329546
+1,"domain
+    cpi_constant_2018usd
+Name: 3, dtype: object",brier,0.0037873157882777064
+1,"domain
+    cpi_constant_2018usd
+Name: 3, dtype: object",log_loss,0.008994535972328688
+1,"domain
+    cpi_constant_2018usd
+Name: 3, dtype: object",ece,0.0031657956199733737
+1,"domain
+    cpi_constant_2018usd
+Name: 3, dtype: object",calibration_intercept,-0.06844855436478271
+1,"domain
+    cpi_constant_2018usd
+Name: 3, dtype: object",calibration_slope,-0.008889889734868595
+1,"domain
+    cpi_constant_2018usd
+Name: 3, dtype: object",hcep_080,0.000412537308421973
+1,"domain
+    cpi_constant_2018usd
+Name: 3, dtype: object",hcep_090,-0.0014242417066404403
+1,"domain
+    cpi_constant_2018usd
+Name: 3, dtype: object",hcep_095,-0.0007605663243907754
+1,"domain
+    cpi_constant_2018usd
+Name: 3, dtype: object",aurc,0.003941870522272808
+1,"domain
+    cpi_constant_2018usd
+Name: 3, dtype: object",excess_aurc,0.0024944856297677565
+1,"domain
+    survey_year_adjusted_50000
+Name: 4, dtype: object",prevalence,0.12675792218016912
+1,"domain
+    survey_year_adjusted_50000
+Name: 4, dtype: object",auroc,-0.006081956068758054
+1,"domain
+    survey_year_adjusted_50000
+Name: 4, dtype: object",average_precision,0.058956297199947216
+1,"domain
+    survey_year_adjusted_50000
+Name: 4, dtype: object",pr_skill,0.03925701975870011
+1,"domain
+    survey_year_adjusted_50000
+Name: 4, dtype: object",brier,0.02210445268686101
+1,"domain
+    survey_year_adjusted_50000
+Name: 4, dtype: object",log_loss,0.06300842232942416
+1,"domain
+    survey_year_adjusted_50000
+Name: 4, dtype: object",ece,0.08862867408895175
+1,"domain
+    survey_year_adjusted_50000
+Name: 4, dtype: object",calibration_intercept,0.7100813159963304
+1,"domain
+    survey_year_adjusted_50000
+Name: 4, dtype: object",calibration_slope,-0.0399819142008645
+1,"domain
+    survey_year_adjusted_50000
+Name: 4, dtype: object",hcep_080,0.01866103510470641
+1,"domain
+    survey_year_adjusted_50000
+Name: 4, dtype: object",hcep_090,0.009420481960268241
+1,"domain
+    survey_year_adjusted_50000
+Name: 4, dtype: object",hcep_095,0.004336405037371788
+1,"domain
+    survey_year_adjusted_50000
+Name: 4, dtype: object",aurc,0.029864528768943854
+1,"domain
+    survey_year_adjusted_50000
+Name: 4, dtype: object",excess_aurc,0.02219490944818886
+1,"domain
+    unadjusted_reported_income_50000
+Name: 5, dtype: object",prevalence,0.12413741065253009
+1,"domain
+    unadjusted_reported_income_50000
+Name: 5, dtype: object",auroc,-0.00908864337626436
+1,"domain
+    unadjusted_reported_income_50000
+Name: 5, dtype: object",average_precision,0.060088603644846694
+1,"domain
+    unadjusted_reported_income_50000
+Name: 5, dtype: object",pr_skill,0.03875335529103918
+1,"domain
+    unadjusted_reported_income_50000
+Name: 5, dtype: object",brier,0.026095058023735435
+1,"domain
+    unadjusted_reported_income_50000
+Name: 5, dtype: object",log_loss,0.07404931762256778
+1,"domain
+    unadjusted_reported_income_50000
+Name: 5, dtype: object",ece,0.08553687752831458
+1,"domain
+    unadjusted_reported_income_50000
+Name: 5, dtype: object",calibration_intercept,0.695337548046648
+1,"domain
+    unadjusted_reported_income_50000
+Name: 5, dtype: object",calibration_slope,-0.05430493317145657
+1,"domain
+    unadjusted_reported_income_50000
+Name: 5, dtype: object",hcep_080,0.024218987973156164
+1,"domain
+    unadjusted_reported_income_50000
+Name: 5, dtype: object",hcep_090,0.010890443852730407
+1,"domain
+    unadjusted_reported_income_50000
+Name: 5, dtype: object",hcep_095,0.004336295346404005
+1,"domain
+    unadjusted_reported_income_50000
+Name: 5, dtype: object",aurc,0.03436492367183944
+1,"domain
+    unadjusted_reported_income_50000
+Name: 5, dtype: object",excess_aurc,0.02580445099500666
+2,"domain
+    cpi_constant_2018usd
+Name: 6, dtype: object",prevalence,0.009804405780652448
+2,"domain
+    cpi_constant_2018usd
+Name: 6, dtype: object",auroc,-0.006979749265974888
+2,"domain
+    cpi_constant_2018usd
+Name: 6, dtype: object",average_precision,-0.004450098098193744
+2,"domain
+    cpi_constant_2018usd
+Name: 6, dtype: object",pr_skill,-0.012344107589497333
+2,"domain
+    cpi_constant_2018usd
+Name: 6, dtype: object",brier,0.005168499221757855
+2,"domain
+    cpi_constant_2018usd
+Name: 6, dtype: object",log_loss,0.013235671638778312
+2,"domain
+    cpi_constant_2018usd
+Name: 6, dtype: object",ece,-0.0014806712933056777
+2,"domain
+    cpi_constant_2018usd
+Name: 6, dtype: object",calibration_intercept,-0.08113550031163612
+2,"domain
+    cpi_constant_2018usd
+Name: 6, dtype: object",calibration_slope,-0.03232152139755484
+2,"domain
+    cpi_constant_2018usd
+Name: 6, dtype: object",hcep_080,0.0017524624254845467
+2,"domain
+    cpi_constant_2018usd
+Name: 6, dtype: object",hcep_090,0.00021365776804387407
+2,"domain
+    cpi_constant_2018usd
+Name: 6, dtype: object",hcep_095,0.001042983695249228
+2,"domain
+    cpi_constant_2018usd
+Name: 6, dtype: object",aurc,0.006191822926047252
+2,"domain
+    cpi_constant_2018usd
+Name: 6, dtype: object",excess_aurc,0.00434592297004352
+2,"domain
+    survey_year_adjusted_50000
+Name: 7, dtype: object",prevalence,0.1235031508424379
+2,"domain
+    survey_year_adjusted_50000
+Name: 7, dtype: object",auroc,-0.009354202791931998
+2,"domain
+    survey_year_adjusted_50000
+Name: 7, dtype: object",average_precision,0.05329057798177628
+2,"domain
+    survey_year_adjusted_50000
+Name: 7, dtype: object",pr_skill,0.031394313266195906
+2,"domain
+    survey_year_adjusted_50000
+Name: 7, dtype: object",brier,0.023463832302791726
+2,"domain
+    survey_year_adjusted_50000
+Name: 7, dtype: object",log_loss,0.0653306677442646
+2,"domain
+    survey_year_adjusted_50000
+Name: 7, dtype: object",ece,0.09077670972895413
+2,"domain
+    survey_year_adjusted_50000
+Name: 7, dtype: object",calibration_intercept,0.6967328913930405
+2,"domain
+    survey_year_adjusted_50000
+Name: 7, dtype: object",calibration_slope,-0.06826768818999784
+2,"domain
+    survey_year_adjusted_50000
+Name: 7, dtype: object",hcep_080,0.01929716657521642
+2,"domain
+    survey_year_adjusted_50000
+Name: 7, dtype: object",hcep_090,0.010506624220129955
+2,"domain
+    survey_year_adjusted_50000
+Name: 7, dtype: object",hcep_095,0.005461292432480386
+2,"domain
+    survey_year_adjusted_50000
+Name: 7, dtype: object",aurc,0.03310958751330784
+2,"domain
+    survey_year_adjusted_50000
+Name: 7, dtype: object",excess_aurc,0.024502114474622805
+2,"domain
+    unadjusted_reported_income_50000
+Name: 8, dtype: object",prevalence,0.12418807233739965
+2,"domain
+    unadjusted_reported_income_50000
+Name: 8, dtype: object",auroc,-0.010823994370919077
+2,"domain
+    unadjusted_reported_income_50000
+Name: 8, dtype: object",average_precision,0.059636636792534836
+2,"domain
+    unadjusted_reported_income_50000
+Name: 8, dtype: object",pr_skill,0.03770075228151548
+2,"domain
+    unadjusted_reported_income_50000
+Name: 8, dtype: object",brier,0.026698947057702482
+2,"domain
+    unadjusted_reported_income_50000
+Name: 8, dtype: object",log_loss,0.0742691649921915
+2,"domain
+    unadjusted_reported_income_50000
+Name: 8, dtype: object",ece,0.08395678280318761
+2,"domain
+    unadjusted_reported_income_50000
+Name: 8, dtype: object",calibration_intercept,0.7027261938712862
+2,"domain
+    unadjusted_reported_income_50000
+Name: 8, dtype: object",calibration_slope,-0.07082932795883956
+2,"domain
+    unadjusted_reported_income_50000
+Name: 8, dtype: object",hcep_080,0.021995456029713124
+2,"domain
+    unadjusted_reported_income_50000
+Name: 8, dtype: object",hcep_090,0.010541441942405205
+2,"domain
+    unadjusted_reported_income_50000
+Name: 8, dtype: object",hcep_095,0.00466379143562222
+2,"domain
+    unadjusted_reported_income_50000
+Name: 8, dtype: object",aurc,0.035618000595339996
+2,"domain
+    unadjusted_reported_income_50000
+Name: 8, dtype: object",excess_aurc,0.026181627724434733
+3,"domain
+    cpi_constant_2018usd
+Name: 9, dtype: object",prevalence,0.013877275700825753
+3,"domain
+    cpi_constant_2018usd
+Name: 9, dtype: object",auroc,-0.005761020008461681
+3,"domain
+    cpi_constant_2018usd
+Name: 9, dtype: object",average_precision,-0.003195959078608479
+3,"domain
+    cpi_constant_2018usd
+Name: 9, dtype: object",pr_skill,-0.012297048933925803
+3,"domain
+    cpi_constant_2018usd
+Name: 9, dtype: object",brier,0.004517193040625395
+3,"domain
+    cpi_constant_2018usd
+Name: 9, dtype: object",log_loss,0.01413641611492128
+3,"domain
+    cpi_constant_2018usd
+Name: 9, dtype: object",ece,0.006208434805381469
+3,"domain
+    cpi_constant_2018usd
+Name: 9, dtype: object",calibration_intercept,-0.08735245795882168
+3,"domain
+    cpi_constant_2018usd
+Name: 9, dtype: object",calibration_slope,-0.020596619778008196
+3,"domain
+    cpi_constant_2018usd
+Name: 9, dtype: object",hcep_080,0.001668694804777389
+3,"domain
+    cpi_constant_2018usd
+Name: 9, dtype: object",hcep_090,0.0017465989898232497
+3,"domain
+    cpi_constant_2018usd
+Name: 9, dtype: object",hcep_095,0.0003940695750562209
+3,"domain
+    cpi_constant_2018usd
+Name: 9, dtype: object",aurc,0.0074865106816197485
+3,"domain
+    cpi_constant_2018usd
+Name: 9, dtype: object",excess_aurc,0.0059257882143938165
+3,"domain
+    survey_year_adjusted_50000
+Name: 10, dtype: object",prevalence,0.1275760207626112
+3,"domain
+    survey_year_adjusted_50000
+Name: 10, dtype: object",auroc,-0.008003711654254952
+3,"domain
+    survey_year_adjusted_50000
+Name: 10, dtype: object",average_precision,0.05484576963777066
+3,"domain
+    survey_year_adjusted_50000
+Name: 10, dtype: object",pr_skill,0.03246509713131318
+3,"domain
+    survey_year_adjusted_50000
+Name: 10, dtype: object",brier,0.021354456112633508
+3,"domain
+    survey_year_adjusted_50000
+Name: 10, dtype: object",log_loss,0.06321975512556771
+3,"domain
+    survey_year_adjusted_50000
+Name: 10, dtype: object",ece,0.08855785506344865
+3,"domain
+    survey_year_adjusted_50000
+Name: 10, dtype: object",calibration_intercept,0.6932332369922878
+3,"domain
+    survey_year_adjusted_50000
+Name: 10, dtype: object",calibration_slope,-0.05477131244817324
+3,"domain
+    survey_year_adjusted_50000
+Name: 10, dtype: object",hcep_080,0.01851635692581314
+3,"domain
+    survey_year_adjusted_50000
+Name: 10, dtype: object",hcep_090,0.011887278950258769
+3,"domain
+    survey_year_adjusted_50000
+Name: 10, dtype: object",hcep_095,0.004706602965869995
+3,"domain
+    survey_year_adjusted_50000
+Name: 10, dtype: object",aurc,0.032382613780039995
+3,"domain
+    survey_year_adjusted_50000
+Name: 10, dtype: object",excess_aurc,0.02508441375984221
+3,"domain
+    unadjusted_reported_income_50000
+Name: 11, dtype: object",prevalence,0.12619082089677813
+3,"domain
+    unadjusted_reported_income_50000
+Name: 11, dtype: object",auroc,-0.008403007695226616
+3,"domain
+    unadjusted_reported_income_50000
+Name: 11, dtype: object",average_precision,0.05699829054972194
+3,"domain
+    unadjusted_reported_income_50000
+Name: 11, dtype: object",pr_skill,0.03312481973266046
+3,"domain
+    unadjusted_reported_income_50000
+Name: 11, dtype: object",brier,0.024561977223221065
+3,"domain
+    unadjusted_reported_income_50000
+Name: 11, dtype: object",log_loss,0.07183917749659025
+3,"domain
+    unadjusted_reported_income_50000
+Name: 11, dtype: object",ece,0.08967376021691399
+3,"domain
+    unadjusted_reported_income_50000
+Name: 11, dtype: object",calibration_intercept,0.6857574218047761
+3,"domain
+    unadjusted_reported_income_50000
+Name: 11, dtype: object",calibration_slope,-0.05240755933565755
+3,"domain
+    unadjusted_reported_income_50000
+Name: 11, dtype: object",hcep_080,0.020902284813020644
+3,"domain
+    unadjusted_reported_income_50000
+Name: 11, dtype: object",hcep_090,0.01165078774630338
+3,"domain
+    unadjusted_reported_income_50000
+Name: 11, dtype: object",hcep_095,0.00552460152193642
+3,"domain
+    unadjusted_reported_income_50000
+Name: 11, dtype: object",aurc,0.03527553611435663
+3,"domain
+    unadjusted_reported_income_50000
+Name: 11, dtype: object",excess_aurc,0.027355764186389034
+4,"domain
+    cpi_constant_2018usd
+Name: 12, dtype: object",prevalence,0.008160475964428426
+4,"domain
+    cpi_constant_2018usd
+Name: 12, dtype: object",auroc,-0.006528495101699172
+4,"domain
+    cpi_constant_2018usd
+Name: 12, dtype: object",average_precision,-0.002571936915850559
+4,"domain
+    cpi_constant_2018usd
+Name: 12, dtype: object",pr_skill,-0.008467840217462719
+4,"domain
+    cpi_constant_2018usd
+Name: 12, dtype: object",brier,0.004381035971560476
+4,"domain
+    cpi_constant_2018usd
+Name: 12, dtype: object",log_loss,0.012564035887160041
+4,"domain
+    cpi_constant_2018usd
+Name: 12, dtype: object",ece,-0.0015962711781984072
+4,"domain
+    cpi_constant_2018usd
+Name: 12, dtype: object",calibration_intercept,-0.09091248894683625
+4,"domain
+    cpi_constant_2018usd
+Name: 12, dtype: object",calibration_slope,-0.025241828234903507
+4,"domain
+    cpi_constant_2018usd
+Name: 12, dtype: object",hcep_080,0.0009359585904485934
+4,"domain
+    cpi_constant_2018usd
+Name: 12, dtype: object",hcep_090,0.0020708224338726287
+4,"domain
+    cpi_constant_2018usd
+Name: 12, dtype: object",hcep_095,0.000723802242751528
+4,"domain
+    cpi_constant_2018usd
+Name: 12, dtype: object",aurc,0.006405904400419993
+4,"domain
+    cpi_constant_2018usd
+Name: 12, dtype: object",excess_aurc,0.004775524539835402
+4,"domain
+    survey_year_adjusted_50000
+Name: 13, dtype: object",prevalence,0.12185922102621388
+4,"domain
+    survey_year_adjusted_50000
+Name: 13, dtype: object",auroc,-0.008642978750313723
+4,"domain
+    survey_year_adjusted_50000
+Name: 13, dtype: object",average_precision,0.055790152622776756
+4,"domain
+    survey_year_adjusted_50000
+Name: 13, dtype: object",pr_skill,0.036284652821512164
+4,"domain
+    survey_year_adjusted_50000
+Name: 13, dtype: object",brier,0.02267743288930632
+4,"domain
+    survey_year_adjusted_50000
+Name: 13, dtype: object",log_loss,0.0649915154849785
+4,"domain
+    survey_year_adjusted_50000
+Name: 13, dtype: object",ece,0.09112011213462407
+4,"domain
+    survey_year_adjusted_50000
+Name: 13, dtype: object",calibration_intercept,0.6868577451284125
+4,"domain
+    survey_year_adjusted_50000
+Name: 13, dtype: object",calibration_slope,-0.05753455551351694
+4,"domain
+    survey_year_adjusted_50000
+Name: 13, dtype: object",hcep_080,0.019000287255204883
+4,"domain
+    survey_year_adjusted_50000
+Name: 13, dtype: object",hcep_090,0.012158489691139151
+4,"domain
+    survey_year_adjusted_50000
+Name: 13, dtype: object",hcep_095,0.004924058729212096
+4,"domain
+    survey_year_adjusted_50000
+Name: 13, dtype: object",aurc,0.033226433873807554
+4,"domain
+    survey_year_adjusted_50000
+Name: 13, dtype: object",excess_aurc,0.025080362882719767
+4,"domain
+    unadjusted_reported_income_50000
+Name: 14, dtype: object",prevalence,0.11932652498229612
+4,"domain
+    unadjusted_reported_income_50000
+Name: 14, dtype: object",auroc,-0.00938565164155536
+4,"domain
+    unadjusted_reported_income_50000
+Name: 14, dtype: object",average_precision,0.05876485926903441
+4,"domain
+    unadjusted_reported_income_50000
+Name: 14, dtype: object",pr_skill,0.03882196618823719
+4,"domain
+    unadjusted_reported_income_50000
+Name: 14, dtype: object",brier,0.024264373650886573
+4,"domain
+    unadjusted_reported_income_50000
+Name: 14, dtype: object",log_loss,0.07007519197335527
+4,"domain
+    unadjusted_reported_income_50000
+Name: 14, dtype: object",ece,0.08252507639923685
+4,"domain
+    unadjusted_reported_income_50000
+Name: 14, dtype: object",calibration_intercept,0.6712645194863571
+4,"domain
+    unadjusted_reported_income_50000
+Name: 14, dtype: object",calibration_slope,-0.06189771972405966
+4,"domain
+    unadjusted_reported_income_50000
+Name: 14, dtype: object",hcep_080,0.021939456494467276
+4,"domain
+    unadjusted_reported_income_50000
+Name: 14, dtype: object",hcep_090,0.01196155326942384
+4,"domain
+    unadjusted_reported_income_50000
+Name: 14, dtype: object",hcep_095,0.005533576244737337
+4,"domain
+    unadjusted_reported_income_50000
+Name: 14, dtype: object",aurc,0.034523947188871196
+4,"domain
+    unadjusted_reported_income_50000
+Name: 14, dtype: object",excess_aurc,0.026583986373879237
+5,"domain
+    cpi_constant_2018usd
+Name: 15, dtype: object",prevalence,0.008768482091658925
+5,"domain
+    cpi_constant_2018usd
+Name: 15, dtype: object",auroc,-0.010867554119495137
+5,"domain
+    cpi_constant_2018usd
+Name: 15, dtype: object",average_precision,-0.013096253854605222
+5,"domain
+    cpi_constant_2018usd
+Name: 15, dtype: object",pr_skill,-0.02594952291146624
+5,"domain
+    cpi_constant_2018usd
+Name: 15, dtype: object",brier,0.007511372295237767
+5,"domain
+    cpi_constant_2018usd
+Name: 15, dtype: object",log_loss,0.020630744691544023
+5,"domain
+    cpi_constant_2018usd
+Name: 15, dtype: object",ece,0.0002945853331739155
+5,"domain
+    cpi_constant_2018usd
+Name: 15, dtype: object",calibration_intercept,-0.08351020745569819
+5,"domain
+    cpi_constant_2018usd
+Name: 15, dtype: object",calibration_slope,-0.05216583295663879
+5,"domain
+    cpi_constant_2018usd
+Name: 15, dtype: object",hcep_080,0.0004947259290777953
+5,"domain
+    cpi_constant_2018usd
+Name: 15, dtype: object",hcep_090,0.0025080500225841997
+5,"domain
+    cpi_constant_2018usd
+Name: 15, dtype: object",hcep_095,0.0011179914894708567
+5,"domain
+    cpi_constant_2018usd
+Name: 15, dtype: object",aurc,0.00980161713748677
+5,"domain
+    cpi_constant_2018usd
+Name: 15, dtype: object",excess_aurc,0.0069183131171287465
+5,"domain
+    survey_year_adjusted_50000
+Name: 16, dtype: object",prevalence,0.12246722715344438
+5,"domain
+    survey_year_adjusted_50000
+Name: 16, dtype: object",auroc,-0.01311191122383526
+5,"domain
+    survey_year_adjusted_50000
+Name: 16, dtype: object",average_precision,0.04547941583833659
+5,"domain
+    survey_year_adjusted_50000
+Name: 16, dtype: object",pr_skill,0.019194453611825923
+5,"domain
+    survey_year_adjusted_50000
+Name: 16, dtype: object",brier,0.025912308224859792
+5,"domain
+    survey_year_adjusted_50000
+Name: 16, dtype: object",log_loss,0.074482432951954
+5,"domain
+    survey_year_adjusted_50000
+Name: 16, dtype: object",ece,0.08943617079024452
+5,"domain
+    survey_year_adjusted_50000
+Name: 16, dtype: object",calibration_intercept,0.694122542365059
+5,"domain
+    survey_year_adjusted_50000
+Name: 16, dtype: object",calibration_slope,-0.08465521970987933
+5,"domain
+    survey_year_adjusted_50000
+Name: 16, dtype: object",hcep_080,0.018774856305319207
+5,"domain
+    survey_year_adjusted_50000
+Name: 16, dtype: object",hcep_090,0.013681102365251812
+5,"domain
+    survey_year_adjusted_50000
+Name: 16, dtype: object",hcep_095,0.006069427977439285
+5,"domain
+    survey_year_adjusted_50000
+Name: 16, dtype: object",aurc,0.03639488286609721
+5,"domain
+    survey_year_adjusted_50000
+Name: 16, dtype: object",excess_aurc,0.027190425511331842
+5,"domain
+    unadjusted_reported_income_50000
+Name: 17, dtype: object",prevalence,0.12162862541621083
+5,"domain
+    unadjusted_reported_income_50000
+Name: 17, dtype: object",auroc,-0.013288329721901082
+5,"domain
+    unadjusted_reported_income_50000
+Name: 17, dtype: object",average_precision,0.05350479121590157
+5,"domain
+    unadjusted_reported_income_50000
+Name: 17, dtype: object",pr_skill,0.02955756125629594
+5,"domain
+    unadjusted_reported_income_50000
+Name: 17, dtype: object",brier,0.028161665726027324
+5,"domain
+    unadjusted_reported_income_50000
+Name: 17, dtype: object",log_loss,0.0801232641255461
+5,"domain
+    unadjusted_reported_income_50000
+Name: 17, dtype: object",ece,0.08916595459178792
+5,"domain
+    unadjusted_reported_income_50000
+Name: 17, dtype: object",calibration_intercept,0.6924768951070277
+5,"domain
+    unadjusted_reported_income_50000
+Name: 17, dtype: object",calibration_slope,-0.07971578242496857
+5,"domain
+    unadjusted_reported_income_50000
+Name: 17, dtype: object",hcep_080,0.022257882628068285
+5,"domain
+    unadjusted_reported_income_50000
+Name: 17, dtype: object",hcep_090,0.013203555759776237
+5,"domain
+    unadjusted_reported_income_50000
+Name: 17, dtype: object",hcep_095,0.005846061259146156
+5,"domain
+    unadjusted_reported_income_50000
+Name: 17, dtype: object",aurc,0.037313546641437614
+5,"domain
+    unadjusted_reported_income_50000
+Name: 17, dtype: object",excess_aurc,0.027113575949421716
+6,"domain
+    cpi_constant_2018usd
+Name: 18, dtype: object",prevalence,0.015609903393703772
+6,"domain
+    cpi_constant_2018usd
+Name: 18, dtype: object",auroc,-0.013070198425763069
+6,"domain
+    cpi_constant_2018usd
+Name: 18, dtype: object",average_precision,-0.01432338074151307
+6,"domain
+    cpi_constant_2018usd
+Name: 18, dtype: object",pr_skill,-0.031143908421035316
+6,"domain
+    cpi_constant_2018usd
+Name: 18, dtype: object",brier,0.009026340755269369
+6,"domain
+    cpi_constant_2018usd
+Name: 18, dtype: object",log_loss,0.02512571390666829
+6,"domain
+    cpi_constant_2018usd
+Name: 18, dtype: object",ece,-0.0007783342444105269
+6,"domain
+    cpi_constant_2018usd
+Name: 18, dtype: object",calibration_intercept,-0.06517001847399437
+6,"domain
+    cpi_constant_2018usd
+Name: 18, dtype: object",calibration_slope,-0.07154781833048851
+6,"domain
+    cpi_constant_2018usd
+Name: 18, dtype: object",hcep_080,0.005062474232378537
+6,"domain
+    cpi_constant_2018usd
+Name: 18, dtype: object",hcep_090,0.0022510467115620172
+6,"domain
+    cpi_constant_2018usd
+Name: 18, dtype: object",hcep_095,0.0011531903458952375
+6,"domain
+    cpi_constant_2018usd
+Name: 18, dtype: object",aurc,0.012532945161664269
+6,"domain
+    cpi_constant_2018usd
+Name: 18, dtype: object",excess_aurc,0.009212945432205258
+6,"domain
+    survey_year_adjusted_50000
+Name: 19, dtype: object",prevalence,0.12930864845548923
+6,"domain
+    survey_year_adjusted_50000
+Name: 19, dtype: object",auroc,-0.015620778223959242
+6,"domain
+    survey_year_adjusted_50000
+Name: 19, dtype: object",average_precision,0.043532261592930444
+6,"domain
+    survey_year_adjusted_50000
+Name: 19, dtype: object",pr_skill,0.012863863677080922
+6,"domain
+    survey_year_adjusted_50000
+Name: 19, dtype: object",brier,0.026758241820754924
+6,"domain
+    survey_year_adjusted_50000
+Name: 19, dtype: object",log_loss,0.0755692755791394
+6,"domain
+    survey_year_adjusted_50000
+Name: 19, dtype: object",ece,0.08561094479827694
+6,"domain
+    survey_year_adjusted_50000
+Name: 19, dtype: object",calibration_intercept,0.7127467227052389
+6,"domain
+    survey_year_adjusted_50000
+Name: 19, dtype: object",calibration_slope,-0.10772016425805475
+6,"domain
+    survey_year_adjusted_50000
+Name: 19, dtype: object",hcep_080,0.022337488757734177
+6,"domain
+    survey_year_adjusted_50000
+Name: 19, dtype: object",hcep_090,0.012536511366029846
+6,"domain
+    survey_year_adjusted_50000
+Name: 19, dtype: object",hcep_095,0.005384704322431865
+6,"domain
+    survey_year_adjusted_50000
+Name: 19, dtype: object",aurc,0.03918955869664094
+6,"domain
+    survey_year_adjusted_50000
+Name: 19, dtype: object",excess_aurc,0.02941385994870792
+6,"domain
+    unadjusted_reported_income_50000
+Name: 20, dtype: object",prevalence,0.12603840815588535
+6,"domain
+    unadjusted_reported_income_50000
+Name: 20, dtype: object",auroc,-0.014089204968919744
+6,"domain
+    unadjusted_reported_income_50000
+Name: 20, dtype: object",average_precision,0.04952648710985963
+6,"domain
+    unadjusted_reported_income_50000
+Name: 20, dtype: object",pr_skill,0.021343685303557902
+6,"domain
+    unadjusted_reported_income_50000
+Name: 20, dtype: object",brier,0.02907099740548086
+6,"domain
+    unadjusted_reported_income_50000
+Name: 20, dtype: object",log_loss,0.08287395246053708
+6,"domain
+    unadjusted_reported_income_50000
+Name: 20, dtype: object",ece,0.08745265569503102
+6,"domain
+    unadjusted_reported_income_50000
+Name: 20, dtype: object",calibration_intercept,0.6975868903125322
+6,"domain
+    unadjusted_reported_income_50000
+Name: 20, dtype: object",calibration_slope,-0.0919542696451413
+6,"domain
+    unadjusted_reported_income_50000
+Name: 20, dtype: object",hcep_080,0.025928912077012985
+6,"domain
+    unadjusted_reported_income_50000
+Name: 20, dtype: object",hcep_090,0.012654655920475731
+6,"domain
+    unadjusted_reported_income_50000
+Name: 20, dtype: object",hcep_095,0.005596998371692364
+6,"domain
+    unadjusted_reported_income_50000
+Name: 20, dtype: object",aurc,0.04022197671340928
+6,"domain
+    unadjusted_reported_income_50000
+Name: 20, dtype: object",excess_aurc,0.030862392003936284
+7,"domain
+    cpi_constant_2018usd
+Name: 21, dtype: object",prevalence,0.010777992797062375
+7,"domain
+    cpi_constant_2018usd
+Name: 21, dtype: object",auroc,-0.009737593082168594
+7,"domain
+    cpi_constant_2018usd
+Name: 21, dtype: object",average_precision,-0.012524397642637686
+7,"domain
+    cpi_constant_2018usd
+Name: 21, dtype: object",pr_skill,-0.025933802160539643
+7,"domain
+    cpi_constant_2018usd
+Name: 21, dtype: object",brier,0.006986648788371214
+7,"domain
+    cpi_constant_2018usd
+Name: 21, dtype: object",log_loss,0.019698502316319588
+7,"domain
+    cpi_constant_2018usd
+Name: 21, dtype: object",ece,0.0007465453838657321
+7,"domain
+    cpi_constant_2018usd
+Name: 21, dtype: object",calibration_intercept,-0.1195935727374821
+7,"domain
+    cpi_constant_2018usd
+Name: 21, dtype: object",calibration_slope,-0.04549823733508607
+7,"domain
+    cpi_constant_2018usd
+Name: 21, dtype: object",hcep_080,-0.0019361517154747945
+7,"domain
+    cpi_constant_2018usd
+Name: 21, dtype: object",hcep_090,0.002382853382789856
+7,"domain
+    cpi_constant_2018usd
+Name: 21, dtype: object",hcep_095,0.0005753683098256865
+7,"domain
+    cpi_constant_2018usd
+Name: 21, dtype: object",aurc,0.009675099445045257
+7,"domain
+    cpi_constant_2018usd
+Name: 21, dtype: object",excess_aurc,0.00655533947676136
+7,"domain
+    survey_year_adjusted_50000
+Name: 22, dtype: object",prevalence,0.12447673785884783
+7,"domain
+    survey_year_adjusted_50000
+Name: 22, dtype: object",auroc,-0.012099796859018297
+7,"domain
+    survey_year_adjusted_50000
+Name: 22, dtype: object",average_precision,0.04506233911041757
+7,"domain
+    survey_year_adjusted_50000
+Name: 22, dtype: object",pr_skill,0.01783018231922151
+7,"domain
+    survey_year_adjusted_50000
+Name: 22, dtype: object",brier,0.024062523704991207
+7,"domain
+    survey_year_adjusted_50000
+Name: 22, dtype: object",log_loss,0.06960385349685744
+7,"domain
+    survey_year_adjusted_50000
+Name: 22, dtype: object",ece,0.08377506287504832
+7,"domain
+    survey_year_adjusted_50000
+Name: 22, dtype: object",calibration_intercept,0.6605478159886218
+7,"domain
+    survey_year_adjusted_50000
+Name: 22, dtype: object",calibration_slope,-0.08122656609352896
+7,"domain
+    survey_year_adjusted_50000
+Name: 22, dtype: object",hcep_080,0.015354366524958564
+7,"domain
+    survey_year_adjusted_50000
+Name: 22, dtype: object",hcep_090,0.012879368610251234
+7,"domain
+    survey_year_adjusted_50000
+Name: 22, dtype: object",hcep_095,0.004970171414519649
+7,"domain
+    survey_year_adjusted_50000
+Name: 22, dtype: object",aurc,0.0348702343224923
+7,"domain
+    survey_year_adjusted_50000
+Name: 22, dtype: object",excess_aurc,0.02573701209479172
+7,"domain
+    unadjusted_reported_income_50000
+Name: 23, dtype: object",prevalence,0.12047194985455212
+7,"domain
+    unadjusted_reported_income_50000
+Name: 23, dtype: object",auroc,-0.01219477353791365
+7,"domain
+    unadjusted_reported_income_50000
+Name: 23, dtype: object",average_precision,0.04753018890136096
+7,"domain
+    unadjusted_reported_income_50000
+Name: 23, dtype: object",pr_skill,0.020955387729573283
+7,"domain
+    unadjusted_reported_income_50000
+Name: 23, dtype: object",brier,0.02631988935324958
+7,"domain
+    unadjusted_reported_income_50000
+Name: 23, dtype: object",log_loss,0.07606353988805814
+7,"domain
+    unadjusted_reported_income_50000
+Name: 23, dtype: object",ece,0.08977306018132201
+7,"domain
+    unadjusted_reported_income_50000
+Name: 23, dtype: object",calibration_intercept,0.6334602789311791
+7,"domain
+    unadjusted_reported_income_50000
+Name: 23, dtype: object",calibration_slope,-0.07898720815462734
+7,"domain
+    unadjusted_reported_income_50000
+Name: 23, dtype: object",hcep_080,0.021042372197617724
+7,"domain
+    unadjusted_reported_income_50000
+Name: 23, dtype: object",hcep_090,0.011929549429004115
+7,"domain
+    unadjusted_reported_income_50000
+Name: 23, dtype: object",hcep_095,0.005333679051016198
+7,"domain
+    unadjusted_reported_income_50000
+Name: 23, dtype: object",aurc,0.037033132919618725
+7,"domain
+    unadjusted_reported_income_50000
+Name: 23, dtype: object",excess_aurc,0.027206903765293236
+8,"domain
+    cpi_constant_2018usd
+Name: 24, dtype: object",prevalence,0.011406615406156895
+8,"domain
+    cpi_constant_2018usd
+Name: 24, dtype: object",auroc,-0.0053797462559649345
+8,"domain
+    cpi_constant_2018usd
+Name: 24, dtype: object",average_precision,-0.004759100616627654
+8,"domain
+    cpi_constant_2018usd
+Name: 24, dtype: object",pr_skill,-0.013649511609286291
+8,"domain
+    cpi_constant_2018usd
+Name: 24, dtype: object",brier,0.004029048414980557
+8,"domain
+    cpi_constant_2018usd
+Name: 24, dtype: object",log_loss,0.012225457505504245
+8,"domain
+    cpi_constant_2018usd
+Name: 24, dtype: object",ece,0.000839586209002343
+8,"domain
+    cpi_constant_2018usd
+Name: 24, dtype: object",calibration_intercept,-0.07131940948342617
+8,"domain
+    cpi_constant_2018usd
+Name: 24, dtype: object",calibration_slope,-0.0272703603763631
+8,"domain
+    cpi_constant_2018usd
+Name: 24, dtype: object",hcep_080,0.0005251325124340164
+8,"domain
+    cpi_constant_2018usd
+Name: 24, dtype: object",hcep_090,0.0018492743393658112
+8,"domain
+    cpi_constant_2018usd
+Name: 24, dtype: object",hcep_095,0.0007928751717075641
+8,"domain
+    cpi_constant_2018usd
+Name: 24, dtype: object",aurc,0.006301647000927363
+8,"domain
+    cpi_constant_2018usd
+Name: 24, dtype: object",excess_aurc,0.004811285346137277
+8,"domain
+    survey_year_adjusted_50000
+Name: 25, dtype: object",prevalence,0.12510536046794235
+8,"domain
+    survey_year_adjusted_50000
+Name: 25, dtype: object",auroc,-0.007622327983612731
+8,"domain
+    survey_year_adjusted_50000
+Name: 25, dtype: object",average_precision,0.05324680290244421
+8,"domain
+    survey_year_adjusted_50000
+Name: 25, dtype: object",pr_skill,0.030568148404910178
+8,"domain
+    survey_year_adjusted_50000
+Name: 25, dtype: object",brier,0.02279895899353976
+8,"domain
+    survey_year_adjusted_50000
+Name: 25, dtype: object",log_loss,0.06708069408914935
+8,"domain
+    survey_year_adjusted_50000
+Name: 25, dtype: object",ece,0.09481489473882437
+8,"domain
+    survey_year_adjusted_50000
+Name: 25, dtype: object",calibration_intercept,0.7052264641610029
+8,"domain
+    survey_year_adjusted_50000
+Name: 25, dtype: object",calibration_slope,-0.06240168691119963
+8,"domain
+    survey_year_adjusted_50000
+Name: 25, dtype: object",hcep_080,0.018987431540838706
+8,"domain
+    survey_year_adjusted_50000
+Name: 25, dtype: object",hcep_090,0.01277851825944016
+8,"domain
+    survey_year_adjusted_50000
+Name: 25, dtype: object",hcep_095,0.006318574267353358
+8,"domain
+    survey_year_adjusted_50000
+Name: 25, dtype: object",aurc,0.03393181764156199
+8,"domain
+    survey_year_adjusted_50000
+Name: 25, dtype: object",excess_aurc,0.02592578886073895
+8,"domain
+    unadjusted_reported_income_50000
+Name: 26, dtype: object",prevalence,0.12327700108983841
+8,"domain
+    unadjusted_reported_income_50000
+Name: 26, dtype: object",auroc,-0.007481730579433354
+8,"domain
+    unadjusted_reported_income_50000
+Name: 26, dtype: object",average_precision,0.057747601565516726
+8,"domain
+    unadjusted_reported_income_50000
+Name: 26, dtype: object",pr_skill,0.03532708423723496
+8,"domain
+    unadjusted_reported_income_50000
+Name: 26, dtype: object",brier,0.024042927214016158
+8,"domain
+    unadjusted_reported_income_50000
+Name: 26, dtype: object",log_loss,0.07118542545605228
+8,"domain
+    unadjusted_reported_income_50000
+Name: 26, dtype: object",ece,0.08913589923478771
+8,"domain
+    unadjusted_reported_income_50000
+Name: 26, dtype: object",calibration_intercept,0.6974139458664378
+8,"domain
+    unadjusted_reported_income_50000
+Name: 26, dtype: object",calibration_slope,-0.058247296408613036
+8,"domain
+    unadjusted_reported_income_50000
+Name: 26, dtype: object",hcep_080,0.02076233596596222
+8,"domain
+    unadjusted_reported_income_50000
+Name: 26, dtype: object",hcep_090,0.013051933491660372
+8,"domain
+    unadjusted_reported_income_50000
+Name: 26, dtype: object",hcep_095,0.006400349801826485
+8,"domain
+    unadjusted_reported_income_50000
+Name: 26, dtype: object",aurc,0.03493377452217948
+8,"domain
+    unadjusted_reported_income_50000
+Name: 26, dtype: object",excess_aurc,0.027091389943350558
+9,"domain
+    cpi_constant_2018usd
+Name: 27, dtype: object",prevalence,0.010616947797185916
+9,"domain
+    cpi_constant_2018usd
+Name: 27, dtype: object",auroc,-0.009679457504991107
+9,"domain
+    cpi_constant_2018usd
+Name: 27, dtype: object",average_precision,-0.011046118562663576
+9,"domain
+    cpi_constant_2018usd
+Name: 27, dtype: object",pr_skill,-0.02348986735072167
+9,"domain
+    cpi_constant_2018usd
+Name: 27, dtype: object",brier,0.006804078083235299
+9,"domain
+    cpi_constant_2018usd
+Name: 27, dtype: object",log_loss,0.019197745512142095
+9,"domain
+    cpi_constant_2018usd
+Name: 27, dtype: object",ece,0.0006827240115893623
+9,"domain
+    cpi_constant_2018usd
+Name: 27, dtype: object",calibration_intercept,-0.11689384956747861
+9,"domain
+    cpi_constant_2018usd
+Name: 27, dtype: object",calibration_slope,-0.04596318358876594
+9,"domain
+    cpi_constant_2018usd
+Name: 27, dtype: object",hcep_080,0.002160662762510375
+9,"domain
+    cpi_constant_2018usd
+Name: 27, dtype: object",hcep_090,0.001927686223209546
+9,"domain
+    cpi_constant_2018usd
+Name: 27, dtype: object",hcep_095,0.00023132932138966202
+9,"domain
+    cpi_constant_2018usd
+Name: 27, dtype: object",aurc,0.009515403074735168
+9,"domain
+    cpi_constant_2018usd
+Name: 27, dtype: object",excess_aurc,0.00721929530316065
+9,"domain
+    survey_year_adjusted_50000
+Name: 28, dtype: object",prevalence,0.12431569285897137
+9,"domain
+    survey_year_adjusted_50000
+Name: 28, dtype: object",auroc,-0.011803577908924945
+9,"domain
+    survey_year_adjusted_50000
+Name: 28, dtype: object",average_precision,0.0474008591848033
+9,"domain
+    survey_year_adjusted_50000
+Name: 28, dtype: object",pr_skill,0.02153195325885826
+9,"domain
+    survey_year_adjusted_50000
+Name: 28, dtype: object",brier,0.024495216301661404
+9,"domain
+    survey_year_adjusted_50000
+Name: 28, dtype: object",log_loss,0.07035919629718002
+9,"domain
+    survey_year_adjusted_50000
+Name: 28, dtype: object",ece,0.08890017107349327
+9,"domain
+    survey_year_adjusted_50000
+Name: 28, dtype: object",calibration_intercept,0.6610605637543202
+9,"domain
+    survey_year_adjusted_50000
+Name: 28, dtype: object",calibration_slope,-0.0787268796043864
+9,"domain
+    survey_year_adjusted_50000
+Name: 28, dtype: object",hcep_080,0.019698865354306427
+9,"domain
+    survey_year_adjusted_50000
+Name: 28, dtype: object",hcep_090,0.012253660584815945
+9,"domain
+    survey_year_adjusted_50000
+Name: 28, dtype: object",hcep_095,0.004712903218534765
+9,"domain
+    survey_year_adjusted_50000
+Name: 28, dtype: object",aurc,0.03548862171113379
+9,"domain
+    survey_year_adjusted_50000
+Name: 28, dtype: object",excess_aurc,0.027170649514712306
+9,"domain
+    unadjusted_reported_income_50000
+Name: 29, dtype: object",prevalence,0.12409920513011885
+9,"domain
+    unadjusted_reported_income_50000
+Name: 29, dtype: object",auroc,-0.00999136442449644
+9,"domain
+    unadjusted_reported_income_50000
+Name: 29, dtype: object",average_precision,0.05548160814821301
+9,"domain
+    unadjusted_reported_income_50000
+Name: 29, dtype: object",pr_skill,0.031299694840780656
+9,"domain
+    unadjusted_reported_income_50000
+Name: 29, dtype: object",brier,0.025951092628588607
+9,"domain
+    unadjusted_reported_income_50000
+Name: 29, dtype: object",log_loss,0.07410660059441265
+9,"domain
+    unadjusted_reported_income_50000
+Name: 29, dtype: object",ece,0.08697677552612822
+9,"domain
+    unadjusted_reported_income_50000
+Name: 29, dtype: object",calibration_intercept,0.6702496630491998
+9,"domain
+    unadjusted_reported_income_50000
+Name: 29, dtype: object",calibration_slope,-0.06485883874736265
+9,"domain
+    unadjusted_reported_income_50000
+Name: 29, dtype: object",hcep_080,0.022502018935943967
+9,"domain
+    unadjusted_reported_income_50000
+Name: 29, dtype: object",hcep_090,0.011993066918992951
+9,"domain
+    unadjusted_reported_income_50000
+Name: 29, dtype: object",hcep_095,0.004391368951896781
+9,"domain
+    unadjusted_reported_income_50000
+Name: 29, dtype: object",aurc,0.036044316823077543
+9,"domain
+    unadjusted_reported_income_50000
+Name: 29, dtype: object",excess_aurc,0.02755263866688916

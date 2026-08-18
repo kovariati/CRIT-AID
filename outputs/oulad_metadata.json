@@ -1,0 +1,22 @@
+{
+  "base_seed": 20260728,
+  "repeats": 10,
+  "horizons": [
+    14,
+    56
+  ],
+  "matched_pairs": [
+    "AAA-J",
+    "BBB-B",
+    "BBB-J",
+    "DDD-B",
+    "DDD-J",
+    "EEE-J",
+    "FFF-B",
+    "FFF-J",
+    "GGG-J"
+  ],
+  "primary_estimand": "eventual unsuccessful completion among students registered and not yet withdrawn at the landmark day",
+  "secondary_estimand": "eventual unsuccessful completion among all students registered by the landmark day, including early withdrawals",
+  "bootstrap": "500 two-stage pair-then-student resamples on fixed primary pipeline predictions"
+}
