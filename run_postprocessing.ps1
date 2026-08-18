@@ -24,7 +24,7 @@ foreach ($script in $scripts) {
     }
 }
 
-& python (Join-Path $root 'scripts\audit_repository.py') --mode results --skip-checksums
+& python (Join-Path $root 'scripts\audit_repository.py') --mode results
 if ($LASTEXITCODE -ne 0) {
     throw ('Result audit failed with exit code {0}' -f $LASTEXITCODE)
 }
