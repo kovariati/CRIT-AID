@@ -11,4 +11,4 @@ python "$ROOT/scripts/run_acs_target_definition_decomposition.py"
 python "$ROOT/scripts/run_conformal_tradeoff_analysis.py"
 python "$ROOT/scripts/run_cross_domain_variance_analysis.py"
 python "$ROOT/scripts/build_diagnostic_result_registry.py"
-python "$ROOT/scripts/audit_repository.py" --mode results --skip-checksums
+python "$ROOT/scripts/audit_repository.py" --mode results
