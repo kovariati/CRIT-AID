@@ -16,7 +16,6 @@ from pathlib import Path
 import numpy as np
 import pandas as pd
 
-from common import sha256_file
 
 ROOT = Path(os.environ.get("CRIT_AID_ROOT", Path(__file__).resolve().parents[1]))
 DATA_ROOT = Path(os.environ.get("CRIT_AID_DATA_ROOT", ROOT / "data_raw"))
@@ -79,7 +78,6 @@ def write_raw_manifest(mapping: dict[str, str]) -> None:
             "source_key": key,
             "filename": p.name,
             "bytes": p.stat().st_size,
-            "sha256": sha256_file(p),
             "zip_valid": bad is None,
             "members": "|".join(members),
         })
@@ -285,4 +283,4 @@ def main() -> None:
 
 
 if __name__ == "__main__":
-    main()
+    main() 
